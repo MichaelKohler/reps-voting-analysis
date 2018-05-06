@@ -1,0 +1,15 @@
+{
+  "year": 2018,
+  "election": 1,
+  "votingResultsFilePath": "",
+  "static": {
+    "totalVoters": 0,
+    "newRepsJoinedAfterVoting": 0,
+    "repsMovedToAlumniAfterVoting": 0,
+    "nominees": [{
+      "name": "Nominee 1",
+      "videoViews": 0,
+      "votes": 0
+    }]
+  }
+}

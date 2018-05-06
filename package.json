@@ -1,0 +1,14 @@
+{
+  "name": "reps-voting-analysis",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "DEBUG=* node index.js"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "debug": "^3.1.0",
+    "dom-storage": "^2.0.2",
+    "node-fetch": "^1.7.3"
+  }
+}
