@@ -4,3 +4,4 @@
 node_modules
 reps.json
 config.json
+data/*.html
