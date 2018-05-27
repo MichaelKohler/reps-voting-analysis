@@ -1,0 +1,29 @@
+<template>
+  <div id="app">
+    <RepsCharts msg="Reps Voting Analysis"/>
+  </div>
+</template>
+
+<script>
+  import VueCharts from 'vue-chartjs'
+  import RepsCharts from './components/RepsCharts.vue';
+
+  export default {
+    name: 'app',
+    components: {
+      VueCharts,
+      RepsCharts,
+    }
+  }
+</script>
+
+<style>
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 5vh;
+}
+</style>

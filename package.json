@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "DEBUG=* node index.js"
+    "start": "DEBUG=* node index.js && npm run copy",
+    "copy": "cp data/* voting/public/"
   },
   "dependencies": {
     "async": "^2.5.0",
