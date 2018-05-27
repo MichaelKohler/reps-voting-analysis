@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <RepsCharts msg="Reps Voting Analysis"/>
+    <RepsCharts msg="Reps Voting Analysis - Spring 2018"/>
   </div>
 </template>
 
