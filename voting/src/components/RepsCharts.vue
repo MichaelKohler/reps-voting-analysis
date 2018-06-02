@@ -1,6 +1,6 @@
 <template>
   <div class="charts">
-    <h1>{{ msg }}</h1>
+    <h1>Reps Voting Analysis - Spring 2018</h1>
     <CandidateVoteChart
       title="Votes/Views per Candidate"
       :voting="voting"
@@ -20,9 +20,7 @@
 
   export default {
     name: 'RepsCharts',
-    props: {
-      msg: String,
-    },
+    props: {},
     components: {
       CandidateVoteChart,
       CandidatePossibleVotesChart,

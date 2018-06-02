@@ -1,18 +1,22 @@
 <template>
   <div id="app">
-    <RepsCharts msg="Reps Voting Analysis - Spring 2018"/>
+    <Navigation/>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-  import VueCharts from 'vue-chartjs'
-  import RepsCharts from './components/RepsCharts.vue';
+  import VueCharts from 'vue-chartjs';
+  import router from './router';
+
+  import Navigation from './components/Navigation.vue';
 
   export default {
     name: 'app',
+    router,
     components: {
       VueCharts,
-      RepsCharts,
+      Navigation,
     }
   }
 </script>
