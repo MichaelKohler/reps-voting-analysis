@@ -19,7 +19,7 @@
   import CandidatePossibleVotesChart from './charts/CandidatePossibleVotesChart';
 
   export default {
-    name: 'RepsCharts',
+    name: 'Candidates',
     props: {},
     components: {
       CandidateVoteChart,

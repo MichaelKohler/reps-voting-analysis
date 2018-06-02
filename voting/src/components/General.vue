@@ -2,23 +2,23 @@
   <div class="charts">
     <h1>Reps Voting Analysis - Spring 2018</h1>
     <section class="tiles">
-      <RepsTile :amount="this.voting.analysis.nominees.length" title="Total nominees" />
-      <RepsTile :amount="this.voting.analysis.totalVoters" title="Total voters" />
-      <RepsTile :amount="this.voting.analysis.totalElegible" title="Total Elegible" />
-      <RepsTile :amount="this.votersRatioInPercent" title="% voted" />
+      <Tile :amount="this.voting.analysis.nominees.length" title="Total nominees" />
+      <Tile :amount="this.voting.analysis.totalVoters" title="Total voters" />
+      <Tile :amount="this.voting.analysis.totalElegible" title="Total Elegible" />
+      <Tile :amount="this.votersRatioInPercent" title="% voted" />
     </section>
   </div>
 </template>
 
 <script>
   import axios from 'axios';
-  import RepsTile from './RepsTile.vue';
+  import Tile from './Tile.vue';
 
   export default {
-    name: 'GeneralCharts',
+    name: 'General',
     props: {},
     components: {
-      RepsTile,
+      Tile,
     },
     computed: {
       votersRatioInPercent() {

@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import GeneralCharts from './components/GeneralCharts.vue';
-import RepsCharts from './components/RepsCharts.vue';
+import General from './components/General.vue';
+import Candidates from './components/Candidates.vue';
 
 Vue.use(Router);
 
@@ -10,12 +10,12 @@ export default new Router({
     {
       path: '/',
       name: 'General',
-      component: GeneralCharts
+      component: General
     },
     {
       path: '/candidates',
-      name: 'RepsCharts',
-      component: RepsCharts
+      name: 'Candidates',
+      component: Candidates
     }
   ]
 })
