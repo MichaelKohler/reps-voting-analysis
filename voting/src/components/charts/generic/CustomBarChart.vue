@@ -1,14 +1,15 @@
 <script>
-  import { Bar } from 'vue-chartjs';
+  import { Bar, mixins } from 'vue-chartjs';
 
   export default {
     name: 'CustomBarChart',
     extends: Bar,
+    mixins: [mixins.reactiveProp],
     props: {
-      data: Object,
+      chartData: Object,
     },
     mounted() {
-      this.renderChart(this.data, { responsive: true, maintainAspectRatio: false });
+      this.renderChart(this.chartData, { responsive: true, maintainAspectRatio: false });
     },
   }
 </script>

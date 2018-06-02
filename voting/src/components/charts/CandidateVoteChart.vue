@@ -2,7 +2,7 @@
   <div class="candidates-chart">
     <h2>{{title}}</h2>
     <h3>{{subtitle}}</h3>
-    <CustomBarChart :data="datacollection" />
+    <CustomBarChart :chart-data="datacollection" />
   </div>
 </template>
 
