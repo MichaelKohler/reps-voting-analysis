@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <Navigation/>
+    <MobileNote />
+    <Navigation />
     <router-view></router-view>
   </div>
 </template>
@@ -9,6 +10,7 @@
   import VueCharts from 'vue-chartjs';
   import router from './router';
 
+  import MobileNote from './components/MobileNote.vue';
   import Navigation from './components/Navigation.vue';
 
   export default {
@@ -16,6 +18,7 @@
     router,
     components: {
       VueCharts,
+      MobileNote,
       Navigation,
     }
   }

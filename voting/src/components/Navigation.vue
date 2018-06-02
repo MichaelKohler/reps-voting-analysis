@@ -38,4 +38,10 @@
     color: #0099cc;
     text-decoration: none;
   }
+
+  @media only screen and (max-device-width: 768px) {
+    ul li {
+      display: block;
+    }
+  }
 </style>

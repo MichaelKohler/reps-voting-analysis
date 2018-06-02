@@ -61,7 +61,6 @@
   }
 
   function sortByVotes(a, b) {
-    console.log(a, b);
     if (a.ratio > b.ratio) {
       return -1;
     }
