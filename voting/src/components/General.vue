@@ -32,7 +32,7 @@
       };
     },
     mounted() {
-      axios.get("/voting_analysis.json")
+      axios.get("voting_analysis.json")
         .then((response) => { this.voting = response.data; });
     },
   }
