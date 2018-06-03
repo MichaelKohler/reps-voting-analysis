@@ -5,12 +5,13 @@
   "scripts": {
     "start": "DEBUG=* node index.js && npm run copy",
     "copy": "cp data/* voting/public/",
-    "deploy": "cd voting && npm run build && git checkout gh-pages && mv dist/* ../ && rm -rf dist && git add -A && git commit -m 'New build deploy' && git push origin gh-pages"
+    "deploy": "cd voting && npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "async": "^2.5.0",
     "debug": "^3.1.0",
     "dom-storage": "^2.0.2",
+    "gh-pages": "^1.2.0",
     "jsdom": "^11.10.0",
     "moment": "^2.22.1",
     "node-fetch": "^1.7.3"
