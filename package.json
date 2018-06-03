@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "DEBUG=* node index.js && npm run copy",
-    "copy": "cp data/* voting/public/"
+    "copy": "cp data/* voting/public/",
+    "deploy": "cd voting && npm run build && git checkout gh-pages && mv dist/* ../ && rm -rf dist"
   },
   "dependencies": {
     "async": "^2.5.0",
