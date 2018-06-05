@@ -1,6 +1,6 @@
 <template>
   <div class="votesPerDay-chart">
-    <p>Splitted up by when Reps have joined the program (in months)</p>
+    <p>Split up by when Reps have joined the program (in months)</p>
     <CustomBarChart :chart-data="datacollection" />
   </div>
 </template>
