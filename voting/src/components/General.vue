@@ -1,17 +1,17 @@
 <template>
   <div class="charts">
-    <h1>Reps Voting Analysis - Spring 2018</h1>
+    <h1>Reps Voting Analysis - General</h1>
     <section class="tiles">
-      <Tile :amount="this.voting.analysis.nominees.length" title="Total nominees" />
-      <Tile :amount="this.voting.analysis.totalVoters" title="Total voters" />
-      <Tile :amount="this.voting.analysis.totalElegible" title="Total Elegible" />
+      <Tile :amount="this.votingData.nominees.length" title="Total nominees" />
+      <Tile :amount="this.votingData.totalVoters" title="Total voters" />
+      <Tile :amount="this.votingData.totalElegible" title="Total Elegible" />
       <Tile :amount="this.votersRatioInPercent" title="% voted" />
     </section>
   </div>
 </template>
 
 <script>
-  import axios from 'axios';
+  import { mapState } from 'vuex';
   import Tile from './Tile.vue';
 
   export default {
@@ -21,19 +21,13 @@
       Tile,
     },
     computed: {
+      ...mapState([
+        'votingData'
+      ]),
       votersRatioInPercent() {
-        const percentage = this.voting.analysis.totalVotersRatio * 100;
+        const percentage = this.votingData.totalVotersRatio * 100;
         return percentage.toFixed(2);
-      }
-    },
-    data() {
-      return {
-        voting: {},
-      };
-    },
-    mounted() {
-      axios.get("voting_analysis.json")
-        .then((response) => { this.voting = response.data; });
+      },
     },
   }
 </script>

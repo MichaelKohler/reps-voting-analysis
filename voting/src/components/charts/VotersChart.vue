@@ -16,18 +16,18 @@
     computed: {
       datacollection() {
         return {
-          labels: this.voting.analysis && Object.keys(this.voting.analysis.joinedInfo),
+          labels: Object.keys(this.voting.joinedInfo),
           datasets: [{
             label: 'voted',
             backgroundColor: '#f87979',
-            data: this.voting.analysis && Object.keys(this.voting.analysis.joinedInfo).map((bucket) => {
-              return this.voting.analysis.joinedInfo[bucket].voted;
+            data: Object.keys(this.voting.joinedInfo).map((bucket) => {
+              return this.voting.joinedInfo[bucket].voted;
             }),
           }, {
             label: 'total',
             backgroundColor: '#0099CC',
-            data: this.voting.analysis && Object.keys(this.voting.analysis.joinedInfo).map((bucket) => {
-              return this.voting.analysis.joinedInfo[bucket].total;
+            data: Object.keys(this.voting.joinedInfo).map((bucket) => {
+              return this.voting.joinedInfo[bucket].total;
             }),
           }],
         };

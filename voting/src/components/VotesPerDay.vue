@@ -1,12 +1,12 @@
 <template>
   <div class="charts">
-    <h1>Votes per Day</h1>
-    <VotesPerDayChart :voting="voting" />
+    <h1>Reps Voting Analysis - Votes per Day</h1>
+    <VotesPerDayChart :voting="votingData" />
   </div>
 </template>
 
 <script>
-  import axios from 'axios';
+  import { mapState } from 'vuex';
   import VotesPerDayChart from './charts/VotesPerDayChart.vue';
 
   export default {
@@ -15,14 +15,10 @@
     components: {
       VotesPerDayChart,
     },
-    data() {
-      return {
-        voting: {},
-      };
-    },
-    mounted() {
-      axios.get("voting_analysis.json")
-        .then((response) => { this.voting = response.data; });
+    computed: {
+      ...mapState([
+        'votingData'
+      ]),
     },
   }
 </script>

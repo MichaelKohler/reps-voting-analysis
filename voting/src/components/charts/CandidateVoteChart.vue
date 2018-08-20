@@ -19,15 +19,15 @@
     computed: {
       datacollection() {
         return {
-          labels: this.voting.analysis && this.voting.analysis.nominees.map((nominee) => nominee.name),
+          labels: this.voting.nominees.map((nominee) => nominee.name),
           datasets: [{
             label: 'Votes',
             backgroundColor: '#f87979',
-            data: this.voting.analysis && this.voting.analysis.nominees.map((nominee) => nominee.votes),
+            data: this.voting.nominees.map((nominee) => nominee.votes),
           }, {
             label: 'YT Video Views',
             backgroundColor: '#0099CC',
-            data: this.voting.analysis && this.voting.analysis.nominees.map((nominee) => nominee.videoViews),
+            data: this.voting.nominees.map((nominee) => nominee.videoViews),
           }],
         };
       },

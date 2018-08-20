@@ -19,11 +19,11 @@
     computed: {
       datacollection() {
         return {
-          labels: this.voting.analysis && this.voting.analysis.nominees.map((nominee) => nominee.name),
+          labels: this.voting.nominees.map((nominee) => nominee.name),
           datasets: [{
             label: 'Ratio from all possible votes',
             backgroundColor: '#0099CC',
-            data: this.voting.analysis && this.voting.analysis.nominees.map((nominee) => nominee.ratioOfTotalPossibleVotes),
+            data: this.voting.nominees.map((nominee) => nominee.ratioOfTotalPossibleVotes),
           }],
         };
       },

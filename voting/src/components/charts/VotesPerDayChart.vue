@@ -15,11 +15,11 @@
     computed: {
       datacollection() {
         return {
-          labels: this.voting.analysis && Object.keys(this.voting.analysis.votedPerDate),
+          labels: Object.keys(this.voting.votedPerDate),
           datasets: [{
             label: 'Votes per Day',
             backgroundColor: '#f87979',
-            data: this.voting.analysis && Object.values(this.voting.analysis.votedPerDate),
+            data: Object.values(this.voting.votedPerDate),
           }],
         };
       },

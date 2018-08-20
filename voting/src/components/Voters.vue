@@ -1,12 +1,12 @@
 <template>
   <div class="charts">
-    <h1>Voters</h1>
-    <VotersChart :voting="voting" />
+    <h1>Reps Voting Analysis - Voters</h1>
+    <VotersChart :voting="votingData" />
   </div>
 </template>
 
 <script>
-  import axios from 'axios';
+import { mapState } from 'vuex';
   import VotersChart from './charts/VotersChart.vue';
 
   export default {
@@ -15,14 +15,10 @@
     components: {
       VotersChart,
     },
-    data() {
-      return {
-        voting: {},
-      };
-    },
-    mounted() {
-      axios.get("voting_analysis.json")
-        .then((response) => { this.voting = response.data; });
+    computed: {
+      ...mapState([
+        'votingData'
+      ]),
     },
   }
 </script>

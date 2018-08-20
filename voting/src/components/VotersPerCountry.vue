@@ -20,19 +20,22 @@
 </template>
 
 <script>
-  import axios from 'axios';
+  import { mapState } from 'vuex';
 
   export default {
     name: 'VotersPerCountry',
     props: {},
     computed: {
+      ...mapState([
+        'votingData'
+      ]),
       countryData() {
-        if (!this.voting.analysis) {
+        if (!this.votingData) {
           return [];
         }
 
-        const allCountries = Object.keys(this.voting.analysis.countryInfo).map((countryName) => {
-          const countryInfo = this.voting.analysis.countryInfo[countryName];
+        const allCountries = Object.keys(this.votingData.countryInfo).map((countryName) => {
+          const countryInfo = this.votingData.countryInfo[countryName];
           const percentage = countryInfo.ratio * 100;
           const fullPercentage = percentage.toFixed(2);
 
@@ -48,15 +51,6 @@
 
         return sortedCountries;
       },
-    },
-    data() {
-      return {
-        voting: {},
-      };
-    },
-    mounted() {
-      axios.get("voting_analysis.json")
-        .then((response) => { this.voting = response.data; });
     },
   }
 
