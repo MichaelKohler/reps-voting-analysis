@@ -11,27 +11,27 @@ Vue.use(Router);
 export default new Router({
   routes: [
     {
-      path: '/',
+      path: '/:votingKey?',
       name: 'General',
       component: General
     },
     {
-      path: '/candidates',
+      path: '/:votingKey?/candidates',
       name: 'Candidates',
       component: Candidates
     },
     {
-      path: '/voters',
+      path: '/:votingKey?/voters',
       name: 'Voters',
       component: Voters
     },
     {
-      path: '/votersPerCountry',
+      path: '/:votingKey?/votersPerCountry',
       name: 'VotersPerCountry',
       component: VotersPerCountry
     },
     {
-      path: '/votesPerDay',
+      path: '/:votingKey?/votesPerDay',
       name: 'VotesPerDay',
       component: VotesPerDay
     }

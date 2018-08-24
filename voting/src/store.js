@@ -1,6 +1,8 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
 
+import router from './router';
+
 Vue.use(Vuex);
 
 export default new Vuex.Store({
@@ -13,15 +15,38 @@ export default new Vuex.Store({
       totalVoters: 0,
       totalElegible: 0,
     },
+    availableVotings: [],
+    allVotingData: {},
+    votingURL: '',
+    votingKey: '',
   },
   mutations: {
-    CHANGE_VOTING_DATA: (state, votingData) => {
-      state.votingData = votingData;
+    CHANGE_VOTING_DATA: function(state, allVotingData) {
+      state.allVotingData = allVotingData;
+      state.availableVotings = Object.keys(allVotingData);
+    },
+    CHANGE_SELECTED_VOTING: function(state, newVotingKey) {
+      state.votingData = state.allVotingData[newVotingKey];
+      state.votingURL = '/' + newVotingKey;
+      state.votingKey = newVotingKey;
     }
   },
   actions: {
-    setVotingData: (context, votingData) => {
-      context.commit("CHANGE_VOTING_DATA", votingData);
+    setVotingData: function({ commit, state }, votingData) {
+      commit("CHANGE_VOTING_DATA", votingData);
+
+      const defaultVotingKey = votingData && Object.keys(votingData)[0];
+      const routeVotingKey = state.route.params && state.route.params.votingKey;
+      const votingKey = routeVotingKey || defaultVotingKey;
+      commit("CHANGE_SELECTED_VOTING", votingKey);
+    },
+    changeVoting: function({ commit, state }, newVotingKey) {
+      const currentLocation = router.history.current.path;
+      const oldVotingKey = state.votingKey;
+      const newVotingURL = currentLocation.replace(oldVotingKey, newVotingKey);
+
+      commit("CHANGE_SELECTED_VOTING", newVotingKey);
+      router.push(newVotingURL);
     }
   },
 });

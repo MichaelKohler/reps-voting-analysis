@@ -9,12 +9,15 @@
 <script>
   import axios from 'axios';
   import { mapState, mapMutations, mapActions } from 'vuex';
+  import { sync } from 'vuex-router-sync';
   import VueCharts from 'vue-chartjs';
   import router from './router';
   import store from './store';
 
   import MobileNote from './components/MobileNote.vue';
   import Navigation from './components/Navigation.vue';
+
+  sync(store, router);
 
   export default {
     name: 'app',
@@ -32,7 +35,7 @@
     },
     mounted() {
       axios.get("voting_analysis.json")
-        .then((response) => { this.setVotingData(response.data['2018-1']); });
+        .then((response) => { this.setVotingData(response.data); });
     },
     methods: {
       ...mapMutations([
@@ -54,5 +57,9 @@
   color: #2c3e50;
   margin-top: 5vh;
   margin-bottom: 5vh;
+}
+
+.bold {
+  font-weight: 600;
 }
 </style>
