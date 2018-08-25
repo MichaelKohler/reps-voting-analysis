@@ -49,6 +49,10 @@
     margin-bottom: 10vh;
   }
 
+  .full-nav .navigation:first-child {
+    margin-bottom: 2vh;
+  }
+
   .navigation a {
     cursor: pointer;
   }

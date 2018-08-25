@@ -38,4 +38,11 @@
     margin: 20vh 10vw;
     justify-content: space-between;
   }
+
+  @media only screen and (max-device-width: 768px) {
+    .tiles {
+      margin: 0;
+      flex-direction: column;
+    }
+  }
 </style>

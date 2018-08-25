@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <MobileNote />
     <Navigation />
     <router-view></router-view>
   </div>
@@ -14,7 +13,6 @@
   import router from './router';
   import store from './store';
 
-  import MobileNote from './components/MobileNote.vue';
   import Navigation from './components/Navigation.vue';
 
   sync(store, router);
@@ -25,7 +23,6 @@
     store,
     components: {
       VueCharts,
-      MobileNote,
       Navigation,
     },
     computed: {
@@ -49,6 +46,11 @@
 </script>
 
 <style>
+body {
+  margin: 0;
+  padding: 0;
+}
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
