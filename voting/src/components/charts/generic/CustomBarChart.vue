@@ -9,7 +9,17 @@
       chartData: Object,
     },
     mounted() {
-      this.renderChart(this.chartData, { responsive: true, maintainAspectRatio: false });
+      this.renderChart(this.chartData, {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        }
+      });
     },
   }
 </script>
