@@ -35,7 +35,8 @@ export default new Vuex.Store({
     setVotingData: function({ commit, state }, votingData) {
       commit("CHANGE_VOTING_DATA", votingData);
 
-      const defaultVotingKey = votingData && Object.keys(votingData)[0];
+      const keys = votingData && Object.keys(votingData);
+      const defaultVotingKey = votingData && Object.keys(votingData)[keys.length - 1];
       const routeVotingKey = state.route.params && state.route.params.votingKey;
       const votingKey = routeVotingKey || defaultVotingKey;
       commit("CHANGE_SELECTED_VOTING", votingKey);
