@@ -17,6 +17,8 @@ $ cp config.sample.json config.json
 
 Add the required information to the ```config.json``` file. This can be gathered from the voting page / YouTube videos.
 
+For the `votingResultsFilePath` path, download the voting result page (the one with the comments) locally (HTML).
+
 Now you can run the script:
 
 ```
@@ -59,7 +61,10 @@ You can get a list of Reps who haven't voted yet. This will never be publicly pu
 
 ```
 $ npm install
+$ cp config.sample.json config.json
 $ FETCH_REPS=true npm run reminder
 ```
+
+Add the required information to the ```config.json``` file. For the `votingResultsFilePath` path, download the voting result page (the one with the comments) locally (HTML). For the reminder, you don't need to fill out anything else apart from the `votingResultsFilePath`.
 
 The output will contain a CSV. Subsequent calls don't need to include the `FETCH_REPS` env variable, as the data should be already there.
