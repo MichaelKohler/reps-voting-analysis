@@ -8,12 +8,12 @@
     "deploy": "cd voting && npm run build && sed -i '' 's#=/favicon#=favicon#g' dist/index.html && sed -i '' 's#=/js#=js#g' dist/index.html && sed -i '' 's#=/css#=css#g' dist/index.html && gh-pages -d dist"
   },
   "dependencies": {
-    "async": "^2.5.0",
-    "debug": "^3.1.0",
+    "async": "^3.1.0",
+    "debug": "^4.1.1",
     "dom-storage": "^2.0.2",
-    "gh-pages": "^1.2.0",
-    "jsdom": "^11.10.0",
-    "moment": "^2.22.1",
-    "node-fetch": "^1.7.3"
+    "gh-pages": "^2.1.1",
+    "jsdom": "^15.1.1",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0"
   }
 }
