@@ -5,9 +5,9 @@ Mozilla Reps Voting Analysis
 Setting up the server
 -----
 
-First install [Node](http://nodejs.org/) 8 on your server.
+First install [Node](http://nodejs.org/).
 
-Then you can start the server with:
+Then you will need to install the dependencies and copy the configuration.
 
 ```
 $ git clone <URL>
