@@ -9,5 +9,9 @@ const votingAnalysis = new VotingAnalysis(config);
     await fetch.fetchAll();
   }
 
+  if (process.env.FETCH_ONLY && process.env.FETCH_ONLY === 'true') {
+    return;
+  }
+
   await votingAnalysis.analyze();
 })();
