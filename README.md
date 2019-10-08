@@ -25,7 +25,7 @@ $ FETCH_REPS=true npm start
 
 You can leave off ```FETCH_REPS="true"``` if you already have a local file with the data.
 
-This will create a ```voting_analysis.json``` file which then will be used by the frontend code. You can open the ```index.html``` file to see the results.
+This will create a ```voting_analysis.json``` file which then will be used by the frontend code.
 
 Starting the frontend for development
 ------
@@ -37,6 +37,8 @@ $ cd voting
 $ npm install
 $ npm run serve
 ```
+
+Now you can reach the locally running website (using the statistics you've just exported) at [localhost:8080](http://localhost:8080).
 
 Deploying a new build to gh-pages
 ------
