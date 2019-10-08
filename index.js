@@ -13,5 +13,13 @@ const votingAnalysis = new VotingAnalysis(config);
     return;
   }
 
+  if (process.env.GET_NOT_VOTED && process.env.GET_NOT_VOTED === 'true') {
+    const notVoted = await votingAnalysis.getNotVoted();
+    notVoted.forEach((rep) => {
+      console.log(`${rep.first_name} ${rep.last_name},${rep.profile.remo_url}`);
+    });
+    return;
+  }
+
   await votingAnalysis.analyze();
 })();

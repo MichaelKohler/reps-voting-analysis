@@ -51,3 +51,15 @@ $ npm run deploy
 ```
 
 which will automatically push it to GitHub.
+
+Reminder
+----
+
+You can get a list of Reps who haven't voted yet. This will never be publicly published from Peers or Council. This can be used to send reminders, but also there Peers and Council should not spam people who haven't voted. Some people just do not want to vote for reasons.
+
+```
+$ npm install
+$ FETCH_REPS=true npm run reminder
+```
+
+The output will contain a CSV. Subsequent calls don't need to include the `FETCH_REPS` env variable, as the data should be already there.
