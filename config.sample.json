@@ -3,6 +3,7 @@
   "election": 1,
   "electionDate": "2018-04-10",
   "votingResultsFilePath": "",
+  "type": "endresult",
   "static": {
     "totalVoters": 0,
     "newRepsJoinedAfterVoting": 0,
