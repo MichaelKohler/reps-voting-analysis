@@ -1255,5 +1255,385 @@
         "ratio": 1
       }
     }
+  },
+  "2019-2": {
+    "year": 2019,
+    "election": 2,
+    "totalVoters": 120,
+    "nominees": [
+      {
+        "name": "Luis A Sanchez",
+        "videoViews": 0,
+        "votes": 349,
+        "ratioOfTotalPossibleVotes": 0.5816666666666667
+      },
+      {
+        "name": "Felipe Do Espirito Santo",
+        "videoViews": 0,
+        "votes": 326,
+        "ratioOfTotalPossibleVotes": 0.5433333333333333
+      },
+      {
+        "name": "Md Shahbaz Alam",
+        "videoViews": 28,
+        "votes": 282,
+        "ratioOfTotalPossibleVotes": 0.47
+      },
+      {
+        "name": "Bala Subramaniyan",
+        "videoViews": 0,
+        "votes": 238,
+        "ratioOfTotalPossibleVotes": 0.39666666666666667
+      },
+      {
+        "name": "Bhuvana Meenakshi Koteeswaran",
+        "videoViews": 16,
+        "votes": 212,
+        "ratioOfTotalPossibleVotes": 0.35333333333333333
+      }
+    ],
+    "joinedInfo": {
+      "3": {
+        "total": 4,
+        "voted": 2,
+        "ratio": 0.5
+      },
+      "6": {
+        "total": 0,
+        "voted": 0,
+        "ratio": null
+      },
+      "12": {
+        "total": 8,
+        "voted": 6,
+        "ratio": 0.75
+      },
+      "24": {
+        "total": 17,
+        "voted": 9,
+        "ratio": 0.5294117647058824
+      },
+      "48": {
+        "total": 72,
+        "voted": 35,
+        "ratio": 0.4861111111111111
+      },
+      "older": {
+        "total": 139,
+        "voted": 68,
+        "ratio": 0.4892086330935252
+      }
+    },
+    "votedPerDate": {
+      "2019-10-07": 58,
+      "2019-10-08": 18,
+      "2019-10-09": 8,
+      "2019-10-10": 12,
+      "2019-10-11": 7,
+      "2019-10-12": 6,
+      "2019-10-13": 6,
+      "2019-10-14": 5
+    },
+    "maxVotesPerCandidates": 600,
+    "totalVideoViews": 44,
+    "totalElegible": 240,
+    "totalVotersRatio": 0.5,
+    "countryInfo": {
+      "Israel": {
+        "total": 2,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Sri Lanka": {
+        "total": 5,
+        "voted": 3,
+        "ratio": 0.6
+      },
+      "India": {
+        "total": 78,
+        "voted": 47,
+        "ratio": 0.6025641025641025
+      },
+      "Bangladesh": {
+        "total": 15,
+        "voted": 6,
+        "ratio": 0.4
+      },
+      "Canada": {
+        "total": 3,
+        "voted": 1,
+        "ratio": 0.3333333333333333
+      },
+      "Occupied Palestinian Territory": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Indonesia": {
+        "total": 11,
+        "voted": 6,
+        "ratio": 0.5454545454545454
+      },
+      "Czech Republic": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "United States": {
+        "total": 5,
+        "voted": 3,
+        "ratio": 0.6
+      },
+      "Cameroon": {
+        "total": 2,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Peru": {
+        "total": 2,
+        "voted": 1,
+        "ratio": 0.5
+      },
+      "Belgium": {
+        "total": 2,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Japan": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Spain": {
+        "total": 3,
+        "voted": 2,
+        "ratio": 0.6666666666666666
+      },
+      "Brazil": {
+        "total": 7,
+        "voted": 3,
+        "ratio": 0.42857142857142855
+      },
+      "Nepal": {
+        "total": 2,
+        "voted": 1,
+        "ratio": 0.5
+      },
+      "Mexico": {
+        "total": 8,
+        "voted": 5,
+        "ratio": 0.625
+      },
+      "Nigeria": {
+        "total": 3,
+        "voted": 2,
+        "ratio": 0.6666666666666666
+      },
+      "Hungary": {
+        "total": 2,
+        "voted": 1,
+        "ratio": 0.5
+      },
+      "Gambia": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Botswana": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Romania": {
+        "total": 2,
+        "voted": 1,
+        "ratio": 0.5
+      },
+      "Italy": {
+        "total": 3,
+        "voted": 3,
+        "ratio": 1
+      },
+      "Panama": {
+        "total": 2,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Germany": {
+        "total": 7,
+        "voted": 3,
+        "ratio": 0.42857142857142855
+      },
+      "Kenya": {
+        "total": 4,
+        "voted": 1,
+        "ratio": 0.25
+      },
+      "Finland": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "United Kingdom": {
+        "total": 5,
+        "voted": 2,
+        "ratio": 0.4
+      },
+      "Philippines": {
+        "total": 4,
+        "voted": 2,
+        "ratio": 0.5
+      },
+      "Slovenia": {
+        "total": 3,
+        "voted": 1,
+        "ratio": 0.3333333333333333
+      },
+      "Egypt": {
+        "total": 3,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Ghana": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Uganda": {
+        "total": 4,
+        "voted": 1,
+        "ratio": 0.25
+      },
+      "Algeria": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "France": {
+        "total": 8,
+        "voted": 3,
+        "ratio": 0.375
+      },
+      "Madagascar": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "El Salvador": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Colombia": {
+        "total": 2,
+        "voted": 2,
+        "ratio": 1
+      },
+      "China": {
+        "total": 2,
+        "voted": 1,
+        "ratio": 0.5
+      },
+      "Jordan": {
+        "total": 4,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Albania": {
+        "total": 3,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Poland": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Saudi Arabia": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Argentina": {
+        "total": 2,
+        "voted": 2,
+        "ratio": 1
+      },
+      "Ivory Coast": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Azerbaijan": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Malaysia": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "South Africa": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Lithuania": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Ecuador": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Hong Kong": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Nicaragua": {
+        "total": 2,
+        "voted": 1,
+        "ratio": 0.5
+      },
+      "Taiwan": {
+        "total": 3,
+        "voted": 1,
+        "ratio": 0.3333333333333333
+      },
+      "Chile": {
+        "total": 2,
+        "voted": 1,
+        "ratio": 0.5
+      },
+      "Netherlands": {
+        "total": 1,
+        "voted": 0,
+        "ratio": 0
+      },
+      "Mauritius": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Bolivia": {
+        "total": 2,
+        "voted": 2,
+        "ratio": 1
+      },
+      "Austria": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      },
+      "Tunisia": {
+        "total": 1,
+        "voted": 1,
+        "ratio": 1
+      }
+    }
   }
 }

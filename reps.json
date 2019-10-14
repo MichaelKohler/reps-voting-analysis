@@ -1,6 +1,302 @@
 {
   "reps": [
     {
+      "first_name": "Manish",
+      "last_name": "Kumar",
+      "display_name": "manishkk",
+      "_url": "https://reps.mozilla.org/api/remo/v1/users/3338/",
+      "profile": {
+        "first_name": "Manish",
+        "last_name": "Kumar",
+        "display_name": "manishkk",
+        "date_joined_program": "2019-09-18",
+        "date_left_program": null,
+        "city": "Beersheva",
+        "region": "South Israel",
+        "country": "Israel",
+        "twitter_account": "manish_algomuse",
+        "jabber_id": "",
+        "irc_name": "manishkk",
+        "wiki_profile_url": "",
+        "irc_channels": "",
+        "linkedin_url": "https://www.linkedin.com/in/manish-k-64575141/",
+        "facebook_url": "https://www.facebook.com/manish.algomuse",
+        "diaspora_url": "",
+        "functional_areas": [
+          {
+            "name": "Developer Tools"
+          },
+          {
+            "name": "Firefox"
+          },
+          {
+            "name": "Privacy"
+          },
+          {
+            "name": "Security"
+          }
+        ],
+        "mobilising_skills": [],
+        "mobilising_interests": [],
+        "bio": "Mozilla Firefox Contributor",
+        "mentor": null,
+        "mozillians_profile_url": "https://mozillians.org/en-US/u/manishkk/",
+        "timezone": "Asia/Jerusalem",
+        "groups": [
+          {
+            "name": "Rep"
+          }
+        ],
+        "remo_url": "https://reps.mozilla.org/u/manishkk/"
+      }
+    },
+    {
+      "first_name": "Chamod",
+      "last_name": "Sandaru",
+      "display_name": "chamod",
+      "_url": "https://reps.mozilla.org/api/remo/v1/users/3329/",
+      "profile": {
+        "first_name": "Chamod",
+        "last_name": "Sandaru",
+        "display_name": "chamod",
+        "date_joined_program": "2019-08-20",
+        "date_left_program": null,
+        "city": "Veyangoda",
+        "region": "Western Province",
+        "country": "Sri Lanka",
+        "twitter_account": "ChamiyaSS",
+        "jabber_id": "",
+        "irc_name": "chamod",
+        "wiki_profile_url": "",
+        "irc_channels": "",
+        "linkedin_url": "https://www.linkedin.com/in/chamod-sandaru/",
+        "facebook_url": "https://www.facebook.com/chamod.sadaru",
+        "diaspora_url": "",
+        "functional_areas": [
+          {
+            "name": "Addons"
+          },
+          {
+            "name": "Campus"
+          },
+          {
+            "name": "Firefox"
+          },
+          {
+            "name": "Firefox Mobile"
+          },
+          {
+            "name": "Firefox OS"
+          },
+          {
+            "name": "Mozilla Leadership Network"
+          },
+          {
+            "name": "Mozilla Reps"
+          },
+          {
+            "name": "Testing"
+          },
+          {
+            "name": "WebFWD"
+          }
+        ],
+        "mobilising_skills": [
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Rust"
+          },
+          {
+            "name": "WebVR"
+          }
+        ],
+        "mobilising_interests": [
+          {
+            "name": "Browser Extensions"
+          },
+          {
+            "name": "Rust"
+          },
+          {
+            "name": "Testing"
+          },
+          {
+            "name": "WebVR"
+          }
+        ],
+        "bio": "I'm Chamod Sandaru & I'm currently working as a Software Engineer in Open University o Sri Lanka. I joined Mozilla in 2014 and I'm proud to be a mozillian.",
+        "mentor": null,
+        "mozillians_profile_url": "https://mozillians.org/en-US/u/chamod/",
+        "timezone": "Asia/Colombo",
+        "groups": [
+          {
+            "name": "Rep"
+          }
+        ],
+        "remo_url": "https://reps.mozilla.org/u/chamod/"
+      }
+    },
+    {
+      "first_name": "Sonia",
+      "last_name": "Singla",
+      "display_name": "soniasingla",
+      "_url": "https://reps.mozilla.org/api/remo/v1/users/3322/",
+      "profile": {
+        "first_name": "Sonia",
+        "last_name": "Singla",
+        "display_name": "soniasingla",
+        "date_joined_program": "2019-08-02",
+        "date_left_program": null,
+        "city": "Chandigarh",
+        "region": "Chandigarh",
+        "country": "India",
+        "twitter_account": "soniasinglas",
+        "jabber_id": "",
+        "irc_name": "soniasingla",
+        "wiki_profile_url": "",
+        "irc_channels": "",
+        "linkedin_url": "https://www.linkedin.com/in/soniasinglas/",
+        "facebook_url": "https://www.facebook.com/soniasinglas",
+        "diaspora_url": "",
+        "functional_areas": [
+          {
+            "name": "Code Contributions"
+          },
+          {
+            "name": "Developer Documentation"
+          },
+          {
+            "name": "Developer Engagement"
+          },
+          {
+            "name": "Developer Tools"
+          },
+          {
+            "name": "Localization"
+          },
+          {
+            "name": "Mozilla Reps"
+          },
+          {
+            "name": "Testing"
+          }
+        ],
+        "mobilising_skills": [
+          {
+            "name": "Localization"
+          },
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Testing"
+          }
+        ],
+        "mobilising_interests": [
+          {
+            "name": "Advocacy"
+          },
+          {
+            "name": "Browser Extensions"
+          },
+          {
+            "name": "Localization"
+          },
+          {
+            "name": "Testing"
+          }
+        ],
+        "bio": "Sonia, an open-source enthusiast, is an under-graduate student in Information Technology. She is an Indian Firefox developer, code-contributor in Dev-tools and Firefox. She is responsible for community engagement, techspeaker and localization. She is also involved with l10n team and maintainer of major projects like Add-on Front-end, SUMO, Firefox etc.",
+        "mentor": null,
+        "mozillians_profile_url": "https://mozillians.org/en-US/u/soniasingla/",
+        "timezone": "Asia/Kolkata",
+        "groups": [
+          {
+            "name": "Rep"
+          }
+        ],
+        "remo_url": "https://reps.mozilla.org/u/soniasingla/"
+      }
+    },
+    {
+      "first_name": "Sayed",
+      "last_name": "Ibn Masud",
+      "display_name": "Sayed",
+      "_url": "https://reps.mozilla.org/api/remo/v1/users/3320/",
+      "profile": {
+        "first_name": "Sayed",
+        "last_name": "Ibn Masud",
+        "display_name": "Sayed",
+        "date_joined_program": "2019-07-30",
+        "date_left_program": null,
+        "city": "Dhaka",
+        "region": "Dhaka",
+        "country": "Bangladesh",
+        "twitter_account": "sayedibnmasud",
+        "jabber_id": "",
+        "irc_name": "LiquidO2",
+        "wiki_profile_url": "https://wiki.mozilla.org/User:Sayedibnmasud",
+        "irc_channels": "#bangladesh, #qa, #introduction, #firefox, #build, #bugzilla",
+        "linkedin_url": "https://www.linkedin.com/in/sayedibnmasud",
+        "facebook_url": "https://www.facebook.com/sayedibnmasud",
+        "diaspora_url": "",
+        "functional_areas": [
+          {
+            "name": "Automation"
+          },
+          {
+            "name": "Campus"
+          },
+          {
+            "name": "Firefox"
+          },
+          {
+            "name": "Privacy"
+          },
+          {
+            "name": "Quality Assurance"
+          },
+          {
+            "name": "Testing"
+          },
+          {
+            "name": "Web Compatibility"
+          }
+        ],
+        "mobilising_skills": [
+          {
+            "name": "Teaching Privacy"
+          },
+          {
+            "name": "Testing"
+          }
+        ],
+        "mobilising_interests": [
+          {
+            "name": "Advocacy"
+          },
+          {
+            "name": "Rust"
+          },
+          {
+            "name": "Testing"
+          }
+        ],
+        "bio": "I am a QA contributor from [Mozilla QA Bangladesh](https://www.facebook.com/mozqabd/ \"Title\") working as a QA Community Mentor. I help new contributors to get started to contribute in Mozilla through organizing Test Days and other community events. \r\n<br /> <br />\r\nIf you are interested in contributing in Mozilla and need some help, feel free to drop me an [email](mailto:sayedibnmasud@gmail.com \"Title\") anytime. I almost always reply. You can also ping me in [Telegram](https://t.me/sayedibnmasud \"Title\"). I am always active there.",
+        "mentor": null,
+        "mozillians_profile_url": "https://www.mozillians.org/u/sayedibnmasud",
+        "timezone": "Asia/Dhaka",
+        "groups": [
+          {
+            "name": "Rep"
+          }
+        ],
+        "remo_url": "https://reps.mozilla.org/u/Sayed/"
+      }
+    },
+    {
       "first_name": "Mohammad Maruf",
       "last_name": "Rahman",
       "display_name": "marufrahman",
@@ -273,6 +569,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/pransh15/"
@@ -802,9 +1101,9 @@
         "display_name": "drashti_pandya",
         "date_joined_program": "2019-02-02",
         "date_left_program": null,
-        "city": "Ahmedabad",
-        "region": "Gujarat",
-        "country": "India",
+        "city": "Montreal",
+        "region": "Quebec",
+        "country": "Canada",
         "twitter_account": "drashtipandya1",
         "jabber_id": "",
         "irc_name": "drashti4",
@@ -875,7 +1174,7 @@
           "_url": "https://reps.mozilla.org/api/remo/v1/users/983/"
         },
         "mozillians_profile_url": "https://mozillians.org/en-US/u/drashti4/",
-        "timezone": "Asia/Kolkata",
+        "timezone": "Canada/Eastern",
         "groups": [
           {
             "name": "Rep"
@@ -1094,6 +1393,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/yamama_shakaa/"
@@ -1202,6 +1504,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/21lidyaa/"
@@ -1443,8 +1748,8 @@
         "display_name": "syam",
         "date_joined_program": "2018-06-27",
         "date_left_program": null,
-        "city": "Cochin",
-        "region": "Kerala",
+        "city": "Bangalore",
+        "region": "Karnataka",
         "country": "India",
         "twitter_account": "symkmr_syam",
         "jabber_id": "",
@@ -1589,6 +1894,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/syam/"
@@ -1865,7 +2173,7 @@
             "name": "WebVR"
           }
         ],
-        "bio": "I'm a BSc. in Computer Science graduate from University College Dublin and currently I work as a tutor in School of Computing, NSBM Green University Town, Sri Lanka. I always interested in being a volunteer. I worked/working with several organizations including mozilla Sri Lanka Community, IEEE Sri Lanka, Local volunteering communities and so on. I started my mozillian life as a firefox studeent ambassador as Ruwan Ranganath formed the Mozilla firefox club of NSBM and involved with a large number of activities and became the president of the same club after Ruwan. Then I initiated the Mozilla Campus Club at NSBM and became the club captain. After that I started working with mozilla communities and did/doing my contribution by organizing events, mentoring Local Campus clubs and so on.",
+        "bio": "I'm a BSc. in <strong>Computer Science graduate</strong> from University College Dublin. \r\nCurrently, I'm running a company of my own. In the same time, I've engaged freelancing work and volunteer activities.\r\nI've worked with several organizations including Mozilla Sri Lanka Community, FOSS Sri Lanka Community, IEEE Sri Lanka Students Section, and other Local volunteering communities.\r\nI've started my Mozillian life as a firefox student ambassador at NSBM Mozilla firefox club. There I involved with many activities and later became the president of the same club. I've initiated the Mozilla Campus Club of NSBM and became the club captain. After graduation, I started working with Mozilla Sri Lanka community. There I provide my contribution to organize events, mentor Local Campus clubs and other Mozilla related activities as well.",
         "mentor": {
           "first_name": "Sanyam",
           "last_name": "Khurana",
@@ -2185,6 +2493,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/smsnobin77/"
@@ -2272,7 +2583,7 @@
             "name": "WebVR"
           }
         ],
-        "bio": "**Jyotsna**, an Open Source Enthusiast, is working as a Software Developer in Bangalore India. She’s a coder by profession and Shuttler by passion. She is involved with Mozilla India Community since 2015. She began her journey as an _FSA_ and went on to become the Founder & Club Lead of Firefox Club of BBDNIIT in 2015 April.\r\n\r\nPreviously, she has contributed to _Firefox OS App Development_, _Localisation_, _QA_, and _SuMo_.\r\n\r\nShe has served on Mozilla's **Featured Add-ons Advisory Board** twice from May 2017- April 2018. She was also one of the 5 **judges** on the panel in the **Firefox Quantum Extension Challenge**, ran globally from March 15, 2018 - April 15, 2018.\r\n\r\nShe is also a Firefox Add-on Mentor and has published a privacy-themed add-on **PrivateX**. Currently, she is a **Mozilla Tech Speaker** and an **Add-on Content Reviewer** and has also been highlighted as **Friend of Add-ons** in the last quarter of 2018 on Add-ons blog < https://blog.mozilla.org/addons/2018/11/07/friend-of-add-ons-jyotsna-gupta/ >",
+        "bio": "**Jyotsna**, an Open Source Enthusiast, is working as a Software Developer in Bangalore India. She’s a coder by profession and Shuttler by passion. She is involved with Mozilla India Community since 2015. She began her journey as an _FSA_ and went on to become the Founder & Club Lead of Firefox Club of BBDNIIT in 2015 April.\r\n\r\nPreviously, she has contributed to _Firefox OS App Development_, _Localisation_, _QA_, and _SuMo_.\r\n\r\nShe has served on Mozilla's **Featured Add-ons Advisory Board** thrice (July 2017- Dec 2017) (Jan 2018 - June 2018), (Jan 2019 - June 2019). She was also one of the 5 **judges** on the panel in the **Firefox Quantum Extension Challenge**, ran globally from March 15, 2018 - April 15, 2018.\r\n\r\nShe is also a Firefox Add-on Mentor and has published a privacy-themed add-on **PrivateX**. Currently, she is a **Mozilla Tech Speaker** and an **Add-on Content Reviewer** and has also been highlighted as **Friend of Add-ons** in the last quarter of 2018 on Add-ons blog < https://blog.mozilla.org/addons/2018/11/07/friend-of-add-ons-jyotsna-gupta/ >",
         "mentor": {
           "first_name": "Diwanshi",
           "last_name": "Pandey",
@@ -2392,6 +2703,9 @@
             "name": "Campus"
           },
           {
+            "name": "Code Contributions"
+          },
+          {
             "name": "Connected Devices"
           },
           {
@@ -2413,6 +2727,9 @@
             "name": "Open Badges"
           },
           {
+            "name": "Rust"
+          },
+          {
             "name": "Web Compatibility"
           },
           {
@@ -2428,6 +2745,9 @@
           },
           {
             "name": "Localization"
+          },
+          {
+            "name": "Rust"
           },
           {
             "name": "WebVR"
@@ -2662,7 +2982,7 @@
             "name": "WebVR"
           }
         ],
-        "bio": "<h4>Brief Bio</h4>\r\n<h2>WebXR evangelist </h2>\r\n<h2>WebVR/WebXR lead in MozTN </h2>\r\n<h2> Womoz lead in MozTN </h2>\r\n\r\n<p style=\"text-align:justify\">Joined Mozilla India Community in 2015 as a Firefox Student Ambassador and started to actively participate in my regional community, MozillaTN. In Mozilla Tamil Nadu Community I contributed for QA days, design team, localisation, SUMO and then found my passion towards WebVR and started doing constant contributions towards this stream. Was also part of the Add-ons Featured Advisory board.\r\n</p>\r\n<br>\r\n<p style=\"text-align:justify\">\r\nI became a Mozillian Rep during the year 2018 and I am evangelising on WebVR/ Mozilla Mixed Reality at renowned institutions and do a lot of speaker sessions and workshops on the same. Also I guide colleges for Campus Clubs activities . </p>\r\n<br><br>\r\n<h4>Conferences</h4>\r\n<ul>\r\n<li>Was invited for MozillaTN meetup, KGiSL, Coimbatore - 2016\r\n<li> Speaker at Mozofest, SRM University, Chennai - March 2018\r\n<li> Speaker at Devconf, Christ University, Bangalore - August 2018\r\n<li> Facilitator at Mozfest, Ravensboune University, London - October 2018\r\n</ul>\r\n<br><br>",
+        "bio": "<h4>Brief Bio</h4>\r\n<h2>WebXR evangelist </h2>\r\n\r\n<p style=\"text-align:justify\">Joined Mozilla India Community in 2014 as a Firefox Student Ambassador and started to actively participate in my regional community, MozillaTN. In Mozilla Tamil Nadu Community I contributed for QA days, design team, localisation, SUMO and then found my passion towards WebVR and started doing constant contributions towards this stream. Was also part of the Add-ons Featured Advisory board.\r\n</p>\r\n<br>\r\n<p style=\"text-align:justify\">\r\nI became a Mozillian Rep during the year 2018 and I am evangelising on WebVR/ Mozilla Mixed Reality at renowned institutions and do a lot of speaker sessions and workshops on the same. Also I guide colleges for Campus Clubs activities . </p>\r\n<br><br>\r\n<h4>Conferences</h4>\r\n<ul>\r\n<li>Was invited for MozillaTN meetup, KGiSL, Coimbatore - 2016\r\n<li> Speaker at Mozofest, SRM University, Chennai - March 2018\r\n<li> Speaker at Devconf, Christ University, Bangalore - August 2018\r\n<li> Facilitator at Mozfest, Ravensbourne University, London - October 2018\r\n<li> Speaker at FOSSMEET, National Institute of Technology, Calicut - February 2019\r\n<li> Organized Global Sprint, Salem, Tamil Nadu - April 2019\r\n<li> Speaker at the DevFest'19, GDG, Coimbatore, Tamil Nadu - September 2019\r\n<li> Speaker at React India (first beach conference in India), Goa - September 2019\r\n<li> Wrangler at Mozfest, Ravensbourne University, London - October 2019\r\n</ul>\r\n<br><br>",
         "mentor": {
           "first_name": "Dinesh",
           "last_name": "Mv",
@@ -2674,6 +2994,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/bhuvanameenakshi/"
@@ -2945,9 +3268,9 @@
         "display_name": "Veerskyfire",
         "date_joined_program": "2017-09-18",
         "date_left_program": null,
-        "city": "New York",
-        "region": "New York",
-        "country": "United States",
+        "city": "AHMEDABAD",
+        "region": "Gujarat",
+        "country": "India",
         "twitter_account": "viralparmarhack",
         "jabber_id": "",
         "irc_name": "veerskyfire",
@@ -3037,7 +3360,7 @@
           "_url": "https://reps.mozilla.org/api/remo/v1/users/2308/"
         },
         "mozillians_profile_url": "https://mozillians.org/en-US/u/VeerSkyfire/",
-        "timezone": "US/Eastern",
+        "timezone": "Asia/Kolkata",
         "groups": [
           {
             "name": "Rep"
@@ -3505,6 +3828,9 @@
             "name": "Mozilla Reps"
           },
           {
+            "name": "Open Design"
+          },
+          {
             "name": "Recruiting"
           },
           {
@@ -3512,6 +3838,9 @@
           },
           {
             "name": "Web Development"
+          },
+          {
+            "name": "WebVR"
           }
         ],
         "mobilising_skills": [
@@ -3775,7 +4104,7 @@
         "wiki_profile_url": "",
         "irc_channels": "",
         "linkedin_url": "",
-        "facebook_url": "https://facebook.com/iscmariog",
+        "facebook_url": "",
         "diaspora_url": "",
         "functional_areas": [
           {
@@ -3797,6 +4126,9 @@
             "name": "Open Badges"
           },
           {
+            "name": "Privacy"
+          },
+          {
             "name": "Rust"
           },
           {
@@ -3806,9 +4138,26 @@
             "name": "WebVR"
           }
         ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Free Software Enthusiast, Speaker, Teacher, Member of Mozilla México, Mozillian, Developer, Blogger",
+        "mobilising_skills": [
+          {
+            "name": "Localization"
+          },
+          {
+            "name": "Rust"
+          },
+          {
+            "name": "Teaching Privacy"
+          }
+        ],
+        "mobilising_interests": [
+          {
+            "name": "Browser Extensions"
+          },
+          {
+            "name": "WebVR"
+          }
+        ],
+        "bio": "FOSS Enthusiast | Speaker | Mozilla Reps\r\n | Mozilla Mexico\r\n | Mozilla Hispano\r\n | #Python | #RustLang | GitKraken\r\n Ambassador | #GitLabHeroes",
         "mentor": {
           "first_name": "Monica",
           "last_name": "Bonilla",
@@ -3923,103 +4272,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/rutuja/"
-      }
-    },
-    {
-      "first_name": "Zilmar",
-      "last_name": "de Souza Junior",
-      "display_name": "zilmar",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/3005/",
-      "profile": {
-        "first_name": "Zilmar",
-        "last_name": "de Souza Junior",
-        "display_name": "zilmar",
-        "date_joined_program": "2017-07-28",
-        "date_left_program": null,
-        "city": "Curitiba",
-        "region": "Parana",
-        "country": "Brazil",
-        "twitter_account": "ziww",
-        "jabber_id": "",
-        "irc_name": "zilmar",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Zilmar",
-        "irc_channels": "sumo",
-        "linkedin_url": "https://www.linkedin.com/in/zilmar-de-souza-junior-72784427/",
-        "facebook_url": "https://www.facebook.com/zilmardesouzajr",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Community support / participation"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Fundraising"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "Systems Administration"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "Web Compatibility"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Localization"
-          }
-        ],
-        "mobilising_interests": [
-          {
-            "name": "Advocacy"
-          },
-          {
-            "name": "Marketing"
-          }
-        ],
-        "bio": "Hi, my name is Zilmar. I've been a Mozillian since 2013 and I'm happy to be a Rep. Please let me know if I can help you with anything!",
-        "mentor": null,
-        "mozillians_profile_url": "https://mozillians.org/u/zilmar",
-        "timezone": "America/Sao_Paulo",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/zilmar/"
       }
     },
     {
@@ -4245,52 +4497,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/haripriya/"
-      }
-    },
-    {
-      "first_name": "Sujit",
-      "last_name": "Maharjan",
-      "display_name": "sujit",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2991/",
-      "profile": {
-        "first_name": "Sujit",
-        "last_name": "Maharjan",
-        "display_name": "sujit",
-        "date_joined_program": "2017-07-10",
-        "date_left_program": null,
-        "city": "Lalitpur",
-        "region": "Bagmati",
-        "country": "Nepal",
-        "twitter_account": "frensOfAll",
-        "jabber_id": "",
-        "irc_name": "shubhajeet",
-        "wiki_profile_url": "",
-        "irc_channels": "",
-        "linkedin_url": "https://www.linkedin.com/in/sujitmaharjan/",
-        "facebook_url": "https://www.facebook.com/facesujit",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Code Contributions"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Soon to be a graduate of Electronics and Communication Engineering.",
-        "mentor": {
-          "first_name": "Trishul",
-          "last_name": "Goel",
-          "display_name": "trishul",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/1981/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/shubhajeet/",
-        "timezone": "Asia/Kathmandu",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/sujit/"
       }
     },
     {
@@ -4564,13 +4770,13 @@
       }
     },
     {
-      "first_name": "Maneshwar",
-      "last_name": "Anubha",
+      "first_name": "Anubha",
+      "last_name": "Maneshwar",
       "display_name": "anubhamane",
       "_url": "https://reps.mozilla.org/api/remo/v1/users/2988/",
       "profile": {
-        "first_name": "Maneshwar",
-        "last_name": "Anubha",
+        "first_name": "Anubha",
+        "last_name": "Maneshwar",
         "display_name": "anubhamane",
         "date_joined_program": "2017-07-10",
         "date_left_program": null,
@@ -5225,101 +5431,6 @@
       }
     },
     {
-      "first_name": "David",
-      "last_name": "Ross",
-      "display_name": "david_ross",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2965/",
-      "profile": {
-        "first_name": "David",
-        "last_name": "Ross",
-        "display_name": "david_ross",
-        "date_joined_program": "2017-06-06",
-        "date_left_program": null,
-        "city": "Westminster",
-        "region": "London",
-        "country": "United Kingdom",
-        "twitter_account": "",
-        "jabber_id": "",
-        "irc_name": "david_ross",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Sw1ayfe",
-        "irc_channels": "#uk #london #mozfest #privacy #london-privacy-lab #security #nightly #mdn #linux #diversity",
-        "linkedin_url": "",
-        "facebook_url": "",
-        "diaspora_url": "https://divad.xyz/@zyx",
-        "functional_areas": [
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Community support / participation"
-          },
-          {
-            "name": "Developer Documentation"
-          },
-          {
-            "name": "Developer Engagement"
-          },
-          {
-            "name": "Diversity and Inclusion"
-          },
-          {
-            "name": "Emerging Technologies"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Rust"
-          },
-          {
-            "name": "Security"
-          },
-          {
-            "name": "Services"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [
-          {
-            "name": "Advocacy"
-          },
-          {
-            "name": "Marketing"
-          }
-        ],
-        "bio": "I am originally from Australia, now living in London, and building an Open Source fitness platform. With a strong history in customer service, flagship retail management, staff training, and self-driven tech expertise. Reliant on open source projects (an everyday Linux user for almost a decade) I firmly recognize the importance of giving back to open source in anyway I can. Taking in many aspects of:\r\n\r\n  - community building\r\n  - diversity & inclusion\r\n  - event support & management\r\n  - supporting workshops\r\n  - web technologies\r\n  - documentation\r\n  - and most recently developing knowledge in Rust \r\n\r\nA regular contributor to Mozfest since 2014. Proofs of my commitment to Mozilla:\r\n\r\n  - Mozilla's Network 50 awardee\r\n  - A-Frame workshops\r\n  - London Privacy Lab\r\n  - MDN contributor\r\n  - Global Sprint (London sitehost 2018)\r\n  - Open Leaders (Round 2 participant and mentor in rounds 4/5)\r\n  - Organiser of monthly MozCoffee London events\r\n  - UK Community management\r\n    - Weekly UK Community calls\r\n    - Leader in Mozilla's Discourse\r\n    - Editor of the UK Community Calendar\r\n  - MozFest Space Wrangler (2017 & 2018)\r\n\r\nI've recently applied for the 2018/19 Tech Speakers program. I have my fingers and toes crossed as this would mean the world to me, if I were to be accepted.",
-        "mentor": {
-          "first_name": "Michael",
-          "last_name": "Kohler",
-          "display_name": "michaelkohler",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/449/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/david_ross/",
-        "timezone": "Europe/London",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/david_ross/"
-      }
-    },
-    {
       "first_name": "Juma",
       "last_name": "Baldeh",
       "display_name": "Juma_Baldeh",
@@ -5608,9 +5719,6 @@
             "name": "Rep"
           },
           {
-            "name": "Review"
-          },
-          {
             "name": "Resources"
           }
         ],
@@ -5699,6 +5807,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/NaSabbir/"
@@ -6293,7 +6404,7 @@
         "city": "New Delhi",
         "region": "Delhi",
         "country": "India",
-        "twitter_account": "khantanzeel",
+        "twitter_account": "iamtanzeelkhan",
         "jabber_id": "",
         "irc_name": "tanzeelkhan",
         "wiki_profile_url": "",
@@ -6385,7 +6496,7 @@
             "name": "WebVR"
           }
         ],
-        "bio": "Tanzeel Khan is an active contributor at Mozilla since 2014. The bulk of what he is doing for Mozilla consists of Community Engagement, Evangelism, Education, Design, and Localization.",
+        "bio": "Tanzeel Khan is an active contributor at Mozilla since 2014. The bulk of what he is doing for Mozilla consists of Community Engagement, Evangelism, Digital Human Rights, Privacy, Education, Design, and Localization.",
         "mentor": {
           "first_name": "Jayesh",
           "last_name": "Katta Ramalingaiah",
@@ -6400,6 +6511,9 @@
           },
           {
             "name": "Mentor"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/tanzeelkhan/"
@@ -6570,109 +6684,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/akshit/"
-      }
-    },
-    {
-      "first_name": "Kushagra",
-      "last_name": "Varade",
-      "display_name": "Kush19",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2910/",
-      "profile": {
-        "first_name": "Kushagra",
-        "last_name": "Varade",
-        "display_name": "Kush19",
-        "date_joined_program": "2017-04-11",
-        "date_left_program": null,
-        "city": "Bhopal",
-        "region": "Madhya Pradesh",
-        "country": "India",
-        "twitter_account": "Varade19",
-        "jabber_id": "",
-        "irc_name": "Kush19",
-        "wiki_profile_url": "",
-        "irc_channels": "EFnet\r\nfreenode\r\nIRCnet",
-        "linkedin_url": "http://linkedin.com/in/kushagra-varade",
-        "facebook_url": "https://www.facebook.com/kush.varade.7",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Fundraising"
-          },
-          {
-            "name": "Hive Network"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "UX"
-          },
-          {
-            "name": "Web Compatibility"
-          },
-          {
-            "name": "Web Development"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Self motivated professional who is happy to help people in learning the technologies i am familiar with and also interested in learning and new technologies around. I am a Mozillian from past 2 years and i truly believe in Mozilla mission.",
-        "mentor": {
-          "first_name": "Trishul",
-          "last_name": "Goel",
-          "display_name": "trishul",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/1981/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/varadekd/",
-        "timezone": "Asia/Kolkata",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/Kush19/"
       }
     },
     {
@@ -6923,106 +6934,6 @@
       }
     },
     {
-      "first_name": "Raj",
-      "last_name": "Nilayam",
-      "display_name": "rajnilayam",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2907/",
-      "profile": {
-        "first_name": "Raj",
-        "last_name": "Nilayam",
-        "display_name": "rajnilayam",
-        "date_joined_program": "2017-04-07",
-        "date_left_program": null,
-        "city": "Bhopal",
-        "region": "Madhya Pradesh",
-        "country": "India",
-        "twitter_account": "rajnilayam",
-        "jabber_id": "",
-        "irc_name": "rajnilayam",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Rajnilayam",
-        "irc_channels": "",
-        "linkedin_url": "https://www.linkedin.com/in/rajnilayam/",
-        "facebook_url": "https://facebook.com/rajnilayam",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Community support / participation"
-          },
-          {
-            "name": "Connected Devices"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Emerging Technologies"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "Rust"
-          },
-          {
-            "name": "Security"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "Web Development"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "I am an ambitious engineering student looking for an appropriate stepping stone to build my career. My key word is “I CAN” and three golden words I follow are “Honesty, Sincerity and Regularity I am prepared to relocate, am a Team player and very quick learner. Also I love Open source Contribution to make web a better place, secure and available to all.My key areas of contributions are Localization ,Web Literacy and I also love web development.",
-        "mentor": {
-          "first_name": "Mehul",
-          "last_name": "Patel",
-          "display_name": "rowdymehul",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/2668/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/raj.nilayam",
-        "timezone": "Asia/Kolkata",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/rajnilayam/"
-      }
-    },
-    {
       "first_name": "Jayesh",
       "last_name": "Katta Ramalingaiah",
       "display_name": "jayeshkr",
@@ -7183,6 +7094,9 @@
           },
           {
             "name": "Mentor"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/jayeshkr/"
@@ -7469,6 +7383,9 @@
             "name": "Mentor"
           },
           {
+            "name": "Review"
+          },
+          {
             "name": "Resources"
           }
         ],
@@ -7731,115 +7648,6 @@
       }
     },
     {
-      "first_name": "Vibhanshu",
-      "last_name": "Chaudhary",
-      "display_name": "vibhanshu95",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2900/",
-      "profile": {
-        "first_name": "Vibhanshu",
-        "last_name": "Chaudhary",
-        "display_name": "vibhanshu95",
-        "date_joined_program": "2017-04-06",
-        "date_left_program": null,
-        "city": "Greater Noida",
-        "region": "Uttar Pradesh",
-        "country": "India",
-        "twitter_account": "vibhanshu95",
-        "jabber_id": "",
-        "irc_name": "vibhanshuchaudhary",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Vibhanshu95",
-        "irc_channels": "",
-        "linkedin_url": "https://www.linkedin.com/in/vibhanshuchaudhary/",
-        "facebook_url": "https://www.facebook.com/vibhanshu95",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Automation"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Connected Devices"
-          },
-          {
-            "name": "Diversity and Inclusion"
-          },
-          {
-            "name": "Emerging Technologies"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Location Services"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "Web Compatibility"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Testing"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_interests": [
-          {
-            "name": "Advocacy"
-          },
-          {
-            "name": "Testing"
-          }
-        ],
-        "bio": "Vibhanshu is a Computer Science & Engineering graduate from India. He is currently working as a Software Engineer in a top MNC. He has been contributing to Mozilla and Open Source for over 3 years and proved himself as an engaged Mozillian in Mozilla India Community. Some of his areas of contribution are Firefox QA, WebVR, l10n, SuMo, Webmaker etc. He is leading Mozilla Community in his region for a long time. He has true passion for contributing to Mozilla and its projects. He is also serving its contributions as a Regional Coordinator of Mozilla Campus Clubs in his region.\r\n\r\n\r\nHe is an open web evangelist and likes to advocate open source technologies. He is a part of Mozilla India Policy and Advocacy team. He is always excited to learn new things and help others.",
-        "mentor": null,
-        "mozillians_profile_url": "https://mozillians.org/u/vibhanshu95/",
-        "timezone": "Asia/Kolkata",
-        "groups": [
-          {
-            "name": "Rep"
-          },
-          {
-            "name": "Resources"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/vibhanshu95/"
-      }
-    },
-    {
       "first_name": "Edoardo",
       "last_name": "Viola",
       "display_name": "edovio",
@@ -7989,6 +7797,9 @@
             "name": "Rep"
           },
           {
+            "name": "Review"
+          },
+          {
             "name": "Resources"
           }
         ],
@@ -7998,24 +7809,24 @@
     {
       "first_name": "Luis Richard",
       "last_name": "Dominguez",
-      "display_name": "richardomin",
+      "display_name": "richardominq",
       "_url": "https://reps.mozilla.org/api/remo/v1/users/2883/",
       "profile": {
         "first_name": "Luis Richard",
         "last_name": "Dominguez",
-        "display_name": "richardomin",
+        "display_name": "richardominq",
         "date_joined_program": "2017-02-06",
         "date_left_program": null,
         "city": "Anton",
         "region": "Cocle",
         "country": "Panama",
-        "twitter_account": "r1chardq",
+        "twitter_account": "richardominq",
         "jabber_id": "",
-        "irc_name": "R1chardQ",
+        "irc_name": "richardominq",
         "wiki_profile_url": "",
-        "irc_channels": "#mozilla-hispano,#l10n, #remo, #addons, #webextensions, #mozillians",
+        "irc_channels": "",
         "linkedin_url": "https://pa.linkedin.com/in/luis-richard-dominguez-5529a832",
-        "facebook_url": "http://facebook.com/richardomin",
+        "facebook_url": "https://www.facebook.com/richardominq",
         "diaspora_url": "",
         "functional_areas": [
           {
@@ -8040,13 +7851,13 @@
             "name": "Developer Tools"
           },
           {
+            "name": "Evangelism Mission"
+          },
+          {
             "name": "Evangelism Product"
           },
           {
             "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
           },
           {
             "name": "Labs"
@@ -8064,23 +7875,37 @@
             "name": "Web Development"
           }
         ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Hi everyone, i'm work with Web Developer and i'm Internet & Free Software Activist from many years. I think that mozilla is the important people movement that promote to the access to Web Technology and Defends a Neutral and Free Internet and i like it. Count with a friend in Panama for help to mozillians friends XD.",
+        "mobilising_skills": [
+          {
+            "name": "Rust"
+          }
+        ],
+        "mobilising_interests": [
+          {
+            "name": "Advocacy"
+          },
+          {
+            "name": "Rust"
+          },
+          {
+            "name": "Testing"
+          }
+        ],
+        "bio": "Panamanian, M.TIC Student, Software Developer, Free Software Activist, Mozilla Reps",
         "mentor": {
           "first_name": "Hugo",
           "last_name": "Acosta",
           "display_name": "nex",
           "_url": "https://reps.mozilla.org/api/remo/v1/users/163/"
         },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/r1chardq/",
+        "mozillians_profile_url": "https://mozillians.org/en-US/u/richardominq/",
         "timezone": "America/Panama",
         "groups": [
           {
             "name": "Rep"
           }
         ],
-        "remo_url": "https://reps.mozilla.org/u/richardomin/"
+        "remo_url": "https://reps.mozilla.org/u/richardominq/"
       }
     },
     {
@@ -8975,197 +8800,6 @@
       }
     },
     {
-      "first_name": "Njungle",
-      "last_name": "nges Brian",
-      "display_name": "ngesb",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2809/",
-      "profile": {
-        "first_name": "Njungle",
-        "last_name": "nges Brian",
-        "display_name": "ngesb",
-        "date_joined_program": "2016-10-16",
-        "date_left_program": null,
-        "city": "Buea",
-        "region": "South West",
-        "country": "Cameroon",
-        "twitter_account": "nges_b",
-        "jabber_id": "",
-        "irc_name": "ngesb",
-        "wiki_profile_url": "",
-        "irc_channels": "",
-        "linkedin_url": "https://www.linkedin.com/in/nges-brian-6aba38111",
-        "facebook_url": "https://www.facebook.com/njunglenges.brian",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Connected Devices"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Emerging Technologies"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Security"
-          },
-          {
-            "name": "User Research"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "I am a Computer Software Engineering Student from the Faculty of Engineering and Technology University of Buea Cameroon.\r\nI love technology and love spreading It.",
-        "mentor": {
-          "first_name": "Biraj",
-          "last_name": "Karmakar",
-          "display_name": "biraj",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/487/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/nges.brian/",
-        "timezone": "Africa/Douala",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/ngesb/"
-      }
-    },
-    {
-      "first_name": "Amit Kumar",
-      "last_name": "Jaiswal",
-      "display_name": "amitkumarj441",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2804/",
-      "profile": {
-        "first_name": "Amit Kumar",
-        "last_name": "Jaiswal",
-        "display_name": "amitkumarj441",
-        "date_joined_program": "2016-10-12",
-        "date_left_program": null,
-        "city": "Kanpur",
-        "region": "Uttar Pradesh",
-        "country": "India",
-        "twitter_account": "AMIT_GKP",
-        "jabber_id": "",
-        "irc_name": "amitkj",
-        "wiki_profile_url": "",
-        "irc_channels": "#freenode",
-        "linkedin_url": "http://in.linkedin.com/in/amitkumarjaiswal1",
-        "facebook_url": "http://facebook.com/amitkumar.jaiswal",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Developer Documentation"
-          },
-          {
-            "name": "Developer Engagement"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Hive Network"
-          },
-          {
-            "name": "Labs"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "Web Development"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Amit Kumar Jaiswal is a final year undergraduate of Computer Science & Engineering from UIET, Kanpur University. He is a Free Software Enthusiast and an active open source contributor to <a href=\"http://science.mozilla.org\">Mozilla Science Lab</a>,<a href=\"https://fedoraproject.org/wiki/User:Amitkumarjaiswal\">Fedora</a>,<a href=\"http://hub.docker.com/u/amitkumarjaiswal/\">Docker</a>,and <a href=\"https://identity.kde.org/index.php?r=people/view&uid=amitkumarjaiswal\">KDE</a>. As an Open Hacktivist and as a passionate coder, he is an ardent fan of MS Dhoni and a travel freak. He is fond of traveling and inculcating new interests.\r\n\r\n<p>Currently, he is in the middle of several projects now and his main focus areas are:</p>\r\n<ul>\r\n<li>Evangelizing Open Source Project of Mozilla Security like cornice and hekad.</li>\r\n<li>Creating awareness of Mozilla Science Lab projects among students and researchers by organizing sprints, hackathons to achieve the goal of Open Science.</li>\r\n<li>To focus on Rust and to fetch new contributors.</li>\r\n</ul>",
-        "mentor": {
-          "first_name": "Sumanth",
-          "last_name": "Damarla",
-          "display_name": "damarla_sumanth",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/2293/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/amitkumarj441/",
-        "timezone": "Asia/Kolkata",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/amitkumarj441/"
-      }
-    },
-    {
       "first_name": "Maheshwari",
       "last_name": "Kritika",
       "display_name": "mozkri",
@@ -9442,6 +9076,9 @@
         "mozillians_profile_url": "https://mozillians.org/es/u/Tuxxy/",
         "timezone": "America/Mexico_City",
         "groups": [
+          {
+            "name": "Council"
+          },
           {
             "name": "Rep"
           },
@@ -10008,6 +9645,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/abhi_aecs/"
@@ -11316,82 +10956,6 @@
       }
     },
     {
-      "first_name": "Vnisha",
-      "last_name": "Srivastav",
-      "display_name": "Vnisha",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2531/",
-      "profile": {
-        "first_name": "Vnisha",
-        "last_name": "Srivastav",
-        "display_name": "Vnisha",
-        "date_joined_program": "2015-11-18",
-        "date_left_program": null,
-        "city": "Lucknow",
-        "region": "Uttar Pradesh",
-        "country": "India",
-        "twitter_account": "wishingal",
-        "jabber_id": "",
-        "irc_name": "wishingal",
-        "wiki_profile_url": "",
-        "irc_channels": "",
-        "linkedin_url": "",
-        "facebook_url": "https://www.facebook.com/vnisha.srivastav",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Diversity and Inclusion"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Location Services"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "User Engagement"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Ms. Vnisha Srivastav is a Techno-Business professional with over 3 years of experience in journalism, research, and management domains. She received her Bachelors in Business Administration (Information Technology) from Symbiosis International University before eventually becoming Operations Analyst at JP Morgan & Chase, India in 2012. Prior to her graduation she has also had a stint at Times Of India Lucknow office as a Research Analyst and a Page 3 Reporter. In addition to this, Ms. Vnisha is a regular contributor to various social causes and an enthusiastic traveller. She is a FOSS activist and a Community Liason and Leader at Mozilla Uttar Pradesh. She currently resides in Lucknow, India with her family. She can be contacted at iwishtowish@gmail.com.",
-        "mentor": {
-          "first_name": "Diwanshi",
-          "last_name": "Pandey",
-          "display_name": "diwanshipandey",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/1523/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/Vnisha/",
-        "timezone": "GMT",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/Vnisha/"
-      }
-    },
-    {
       "first_name": "Christophe",
       "last_name": "Villeneuve",
       "display_name": "hellosct1",
@@ -11572,10 +11136,10 @@
         "mobilising_interests": [],
         "bio": "cout<<\"Hello People\"<<endl;\r\n\r\nI am a Student of Computer Science and Engineering in North South University .\r\n\r\nLearning something new everyday and sharing that knowledge with others is my passion!! Like my fellow Mozillians, I believe in a Open Web where anyone can create and share.Trying to Spread Mozilla's mission and love to code . \r\n\r\nFeel free to contact me through email .I reply to almost all of my mails.",
         "mentor": {
-          "first_name": "Sara",
-          "last_name": "Khan",
-          "display_name": "sarakhan",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/383/"
+          "first_name": "Jayesh",
+          "last_name": "Katta Ramalingaiah",
+          "display_name": "jayeshkr",
+          "_url": "https://reps.mozilla.org/api/remo/v1/users/2906/"
         },
         "mozillians_profile_url": "https://mozillians.org/en-US/u/r.i.nahian/",
         "timezone": "Asia/Dhaka",
@@ -12006,6 +11570,12 @@
         "mobilising_skills": [
           {
             "name": "Localization"
+          },
+          {
+            "name": "Rust"
+          },
+          {
+            "name": "Teaching Privacy"
           }
         ],
         "mobilising_interests": [
@@ -12022,7 +11592,7 @@
             "name": "WebVR"
           }
         ],
-        "bio": "My name is Mónica Bonilla. I'm linguist of the National University of Colombia. I have worked with the native languages from Colombia, Ecuador, Peru, Paraguay, Mexico and Guatemala. \r\nI think that the best choice to conserve those languages can be by Internet. I'm interesting in localization and translation, Web literacy, Learning, Writing and Research. I leader of the Mozilla Nativo project.\r\nPromote the localization of the Mozilla's product to the Colombian languages (Wounaan, Nasa Yuwe, Wayuunaiki, and many others), also in languages of Peru (Awajun and chanka), Mexico and Ecuador (Ashuar, quichwa).\r\n\r\n## Projects and areas of current contribution\r\n* Localization in native languages\r\n* Learning Mozilla\r\n* Mozilla Colombia Leader\r\n* Mozilla Native Leader\r\n* Mozilla Council Member",
+        "bio": "My name is Mónica Bonilla. I'm linguist of the National University of Colombia. I have worked with the native languages from Colombia, Ecuador, Peru, Paraguay, Mexico and Guatemala. \r\nI think that the best choice to conserve those languages can be by Internet. I'm interesting in localization and translation, Web literacy, Learning, Writing and Research. I leader of the Mozilla Nativo project.\r\nPromote the localization of the Mozilla's product to the Colombian languages (Wounaan, Nasa Yuwe, Wayuunaiki, and many others), also in languages of Peru (Awajun and chanka), Mexico and Ecuador (Ashuar, quichwa). Sometimes I'm a programmer.\r\n\r\n## Projects and areas of current contribution\r\n* Localization in native languages\r\n* Learning Mozilla\r\n* Mozilla Colombia Leader\r\n* Mozilla Native Leader\r\n* Mozilla Council Member",
         "mentor": {
           "first_name": "Daniele",
           "last_name": "Scasciafratte",
@@ -12257,133 +11827,6 @@
       }
     },
     {
-      "first_name": "Joshua",
-      "last_name": "Rubin",
-      "display_name": "oshrubin",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2403/",
-      "profile": {
-        "first_name": "Joshua",
-        "last_name": "Rubin",
-        "display_name": "oshrubin",
-        "date_joined_program": "2015-08-16",
-        "date_left_program": null,
-        "city": "Muntinlupa City",
-        "region": "NCR",
-        "country": "Philippines",
-        "twitter_account": "oshrubin",
-        "jabber_id": "",
-        "irc_name": "Osh",
-        "wiki_profile_url": "",
-        "irc_channels": "",
-        "linkedin_url": "",
-        "facebook_url": "https://www.facebook.com/Osh.Rubin03",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Accessibility"
-          },
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Automation"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Identity"
-          },
-          {
-            "name": "Infrastructure Security"
-          },
-          {
-            "name": "Location Services"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "Security"
-          },
-          {
-            "name": "Systems Administration"
-          },
-          {
-            "name": "User Research"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Mozilla Rep from Philippines and the current Regional Ambassador Lead for FSA. Basically contributes in volunteer and student engagement.",
-        "mentor": {
-          "first_name": "Faye",
-          "last_name": "Tandog",
-          "display_name": "fayetandog",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/75/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/oshrubin/",
-        "timezone": "",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/oshrubin/"
-      }
-    },
-    {
       "first_name": "Dennis",
       "last_name": "Ndegwa",
       "display_name": "denomain",
@@ -12451,13 +11894,13 @@
       }
     },
     {
-      "first_name": "Atique",
-      "last_name": "Ahmed Ziad",
+      "first_name": "Md Atique Ahmed",
+      "last_name": "Ziad",
       "display_name": "atiqueahmedziad",
       "_url": "https://reps.mozilla.org/api/remo/v1/users/2334/",
       "profile": {
-        "first_name": "Atique",
-        "last_name": "Ahmed Ziad",
+        "first_name": "Md Atique Ahmed",
+        "last_name": "Ziad",
         "display_name": "atiqueahmedziad",
         "date_joined_program": "2015-06-03",
         "date_left_program": null,
@@ -12468,9 +11911,9 @@
         "jabber_id": "",
         "irc_name": "atiqueahmedziad",
         "wiki_profile_url": "https://wiki.mozilla.org/User:Atiqueahmed11",
-        "irc_channels": "#marketplace #fireplace #amo",
-        "linkedin_url": "",
-        "facebook_url": "https://www.facebook.com/atiqueahmedziad",
+        "irc_channels": "#amo",
+        "linkedin_url": "https://www.linkedin.com/in/atiqueahmedziad/",
+        "facebook_url": "https://www.facebook.com/atiqueahmed.ziad.3",
         "diaspora_url": "",
         "functional_areas": [
           {
@@ -12538,7 +11981,7 @@
             "name": "WebVR"
           }
         ],
-        "bio": "Loves the front-end web development",
+        "bio": "###### Web developer | Open source enthusiast | Loves traveling\r\n\r\nAtique is involved with Mozilla since 2014, contributing code to Firefox Marketplace and Add-ons Mozilla. He is a **Mozilla Rep** since 2015. Having good amount contribution he was recognized as **Friend of Add-ons** on 2016\r\n\r\nHe likes to play with web technologies more often. Started working as front-end developer earlier in his career, currently turn into a full stack developer. He is currently working as Lead Developer in a Legal/Law based software company in Bangladesh.",
         "mentor": {
           "first_name": "Priyanka",
           "last_name": "Nag",
@@ -12802,23 +12245,18 @@
           }
         ],
         "bio": "I am a Computer Engineer and an Open Source enthusiast. I'm from Pune, India. I am currently working as an Engineer at Red Hat.\r\n\r\nI have been contributing in various Mozilla projects since 2014 and became a Mozilla Representative in 2015. I have contributed in areas like Support Mozilla, Localization, Mozilla Location Service, User Research, Community building and management, Webmaker and Web Literacy, Firefox OS and Mozilla QA.\r\n\r\nI am currently a Reps Coach, a Mozilla Reps Resource and a member of Mozilla India. Apart from this, I am the Mozilla India Local Swag Manager, Regional Coordinator for Mozilla Clubs and a WebVR enthusiast.\r\n\r\n#HappyToHelp",
-        "mentor": {
-          "first_name": "Priyanka",
-          "last_name": "Nag",
-          "display_name": "priynag",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/435/"
-        },
+        "mentor": null,
         "mozillians_profile_url": "https://mozillians.org/en-US/u/prathamesh/",
         "timezone": "Asia/Kolkata",
         "groups": [
+          {
+            "name": "Council"
+          },
           {
             "name": "Rep"
           },
           {
             "name": "Mentor"
-          },
-          {
-            "name": "Review"
           },
           {
             "name": "Resources"
@@ -13006,9 +12444,6 @@
         "mozillians_profile_url": "https://mozillians.org/it/u/Mte90/",
         "timezone": "Europe/Rome",
         "groups": [
-          {
-            "name": "Council"
-          },
           {
             "name": "Rep"
           },
@@ -13256,7 +12691,7 @@
         "city": "San Jose",
         "region": "California",
         "country": "United States",
-        "twitter_account": "ncript3d",
+        "twitter_account": "infosec_batman",
         "jabber_id": "",
         "irc_name": "siddhartharao17",
         "wiki_profile_url": "",
@@ -13337,7 +12772,7 @@
         "display_name": "balapandu222",
         "date_joined_program": "2015-05-01",
         "date_left_program": null,
-        "city": "Warangal",
+        "city": "Hyderabad",
         "region": "Telangana",
         "country": "India",
         "twitter_account": "balapandu222",
@@ -13495,7 +12930,7 @@
             "name": "Testing"
           }
         ],
-        "bio": "I am, Bala Subramnaiyan (Bala). Techy guy, Working as a Programmer Analyst and graduated from Electronics and Communication Engineering from Warangal, India. A truly active Mozillian &  open source contributor for more than 4+ years and keen on on-boarding new volunteers from  Mozilla India community. I am one of the past ACTIVE Regional Ambassador Lead of FSA program and Club Development Mentee in FSA E-Board who helped new communities to gear up. Contributed at various tech & non-tech projects of Mozilla. Looking forward to work with new initiative programs. --- Proud Mozillian",
+        "bio": "I'm Bala Subramnaiyan (Bala), Working as a Software Engineer at Mphasis Ltd. and graduated from Electronics and Communication Engineering. A truly active Mozillian &  open source contributor for more than 7+ years and keen on on-boarding new volunteers from the Mozilla India community. I am one of the past active Regional Ambassador Lead of FSA program and Club Development Mentee in FSA E-Board who helped new communities to gear up. Contributed to various tech & non-tech projects of Mozilla. Looking forward to work with new initiative programs. --- Proud Mozillian",
         "mentor": {
           "first_name": "Irvin",
           "last_name": "Chen",
@@ -13516,110 +12951,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/balapandu222/"
-      }
-    },
-    {
-      "first_name": "Ake",
-      "last_name": "Nygren",
-      "display_name": "akenyg",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2268/",
-      "profile": {
-        "first_name": "Ake",
-        "last_name": "Nygren",
-        "display_name": "akenyg",
-        "date_joined_program": "2015-04-21",
-        "date_left_program": null,
-        "city": "Stockholm",
-        "region": "Stockholm",
-        "country": "Sweden",
-        "twitter_account": "akenyg",
-        "jabber_id": "",
-        "irc_name": "akenyg",
-        "wiki_profile_url": "",
-        "irc_channels": "#moznet #remo #webmaker",
-        "linkedin_url": "https://www.linkedin.com/in/akenyg",
-        "facebook_url": "https://www.facebook.com/akenyg",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Connected Devices"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Hive Network"
-          },
-          {
-            "name": "Labs"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Location Services"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Teaching Privacy"
-          }
-        ],
-        "mobilising_interests": [],
-        "bio": "Mozilla rep focusing on Internet Health, digital literacy, privacy and maker culture. Public library geek. Dreaming of an open web empowered by ebrarians building trust, knowledge & democracy.",
-        "mentor": {
-          "first_name": "Tim Maks",
-          "last_name": "van den Broek",
-          "display_name": "Mad_Maks",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/465/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/sv-SE/u/akenyg",
-        "timezone": "Europe/Stockholm",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/akenyg/"
       }
     },
     {
@@ -13708,106 +13039,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/Zaidibhias/"
-      }
-    },
-    {
-      "first_name": "Mohamed",
-      "last_name": "Hafez",
-      "display_name": "mohamed7afezz",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2254/",
-      "profile": {
-        "first_name": "Mohamed",
-        "last_name": "Hafez",
-        "display_name": "mohamed7afezz",
-        "date_joined_program": "2015-03-27",
-        "date_left_program": null,
-        "city": "Menuf",
-        "region": "El Menoufia",
-        "country": "Egypt",
-        "twitter_account": "mohamed7afezz",
-        "jabber_id": "",
-        "irc_name": "mohamed7afezz",
-        "wiki_profile_url": "",
-        "irc_channels": "arabicmozilla",
-        "linkedin_url": "https://www.linkedin.com/in/mohamed7afezz",
-        "facebook_url": "https://www.facebook.com/mohamed7afezz",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Automation"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Location Services"
-          },
-          {
-            "name": "Market Insights"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "User Research"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "A 24 years old From Menouf , Menofia, Egypt .\r\n\r\nGraduated form a Faculty of Science - Department of math and Computer Science in 2011 Then Take Pre-Master Computer Science in 2013 Finally preparing for Master in BigData.\r\n\r\nProgramer/Coder/Lover/like Software Engineering and Computer Science as it is, So try to improve my skills and share it in building the future.",
-        "mentor": {
-          "first_name": "Tim Maks",
-          "last_name": "van den Broek",
-          "display_name": "Mad_Maks",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/465/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/mohamed7afezz/",
-        "timezone": "Africa/Cairo",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/mohamed7afezz/"
       }
     },
     {
@@ -14419,127 +13650,6 @@
       }
     },
     {
-      "first_name": "Noureddine",
-      "last_name": "Bellounis",
-      "display_name": "0x890",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2153/",
-      "profile": {
-        "first_name": "Noureddine",
-        "last_name": "Bellounis",
-        "display_name": "0x890",
-        "date_joined_program": "2015-01-13",
-        "date_left_program": null,
-        "city": "Algiers",
-        "region": "Algiers",
-        "country": "Algeria",
-        "twitter_account": "0x890",
-        "jabber_id": "",
-        "irc_name": "Ninou.be",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:0x890",
-        "irc_channels": "#remo #arabicmozilla #arabiccreativeteam",
-        "linkedin_url": "https://dz.linkedin.com/pub/noureddine-bellounis/96/50/a77",
-        "facebook_url": "https://www.facebook.com/0xEEF",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Documentation"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Graphics"
-          },
-          {
-            "name": "Infrastructure Security"
-          },
-          {
-            "name": "Labs"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "Security"
-          },
-          {
-            "name": "Services"
-          },
-          {
-            "name": "User Engagement"
-          },
-          {
-            "name": "User Research"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "UX"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Noureddine, 24 years old, Web and Mobile developer, Security expert and open source lover, UI/UX Designer, expert events organizer and coordinator, CMS developer,Bug  researcher, and IT consultant.",
-        "mentor": {
-          "first_name": "Michael",
-          "last_name": "Kohler",
-          "display_name": "michaelkohler",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/449/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/0x890",
-        "timezone": "Africa/Algiers",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/0x890/"
-      }
-    },
-    {
       "first_name": "Quentin",
       "last_name": "Lamamy",
       "display_name": "quentin_lamamy",
@@ -14898,307 +14008,6 @@
       }
     },
     {
-      "first_name": "Shafique",
-      "last_name": "Patni",
-      "display_name": "shafiquepatni5",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2096/",
-      "profile": {
-        "first_name": "Shafique",
-        "last_name": "Patni",
-        "display_name": "shafiquepatni5",
-        "date_joined_program": "2014-12-06",
-        "date_left_program": null,
-        "city": "Indore",
-        "region": "Madhya Pradesh",
-        "country": "India",
-        "twitter_account": "shafiquepatni",
-        "jabber_id": "",
-        "irc_name": "#shafiquepatni",
-        "wiki_profile_url": "",
-        "irc_channels": "aamir",
-        "linkedin_url": "",
-        "facebook_url": "https://www.facebook.com/shafique.patni.5",
-        "diaspora_url": "https://www.wittyfeed.com/",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Diversity and Inclusion"
-          },
-          {
-            "name": "Finance"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Hive Network"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Metrics"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "Services"
-          },
-          {
-            "name": "Systems Administration"
-          },
-          {
-            "name": "Thunderbird"
-          },
-          {
-            "name": "User Engagement"
-          },
-          {
-            "name": "User Research"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "I am Shafique Patni, Believe to work in a team and always loving to help and lead team.\r\n\r\nI did M.B.A. in Marketing and H.R., & i am enthusiastic to contribute mozilla open source community and  leading local Mozilla Community Indore (Region).\r\nI involved in many project of mozilla from last 3 years, good thing is that I support and contribute a lot as a mozillian.\r\nImportant project contribution in user research project, webmaker, hive india network, supporting localisation in urdu, Marketing for FirefoxOS and Mobile. Also getting involvement of media/PR for Firefox Bus World tour & Local region, MozCafe weekly Activities in Region.\r\nAlways supporting and teaching local community. \r\nPersonal Blog: http://www.shafiquepatni.wordpress.com",
-        "mentor": {
-          "first_name": "Faisal",
-          "last_name": "Aziz",
-          "display_name": "FaisalAziz",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/288/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/shafiquepatni5/",
-        "timezone": "Asia/Kolkata",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/shafiquepatni5/"
-      }
-    },
-    {
-      "first_name": "Harsha",
-      "last_name": "Bandaru",
-      "display_name": "HarshaBandaru",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/2092/",
-      "profile": {
-        "first_name": "Harsha",
-        "last_name": "Bandaru",
-        "display_name": "HarshaBandaru",
-        "date_joined_program": "2014-12-03",
-        "date_left_program": null,
-        "city": "Hyderabad",
-        "region": "Telangana",
-        "country": "India",
-        "twitter_account": "harsshhaa",
-        "jabber_id": "",
-        "irc_name": "Harsha Bandaru",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:HarshaBandaru",
-        "irc_channels": "#FirefoxOS #reps #FSA #Development #WebMaker #Web #addon #sumo #",
-        "linkedin_url": "",
-        "facebook_url": "https://www.facebook.com/sriharsha57",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Automation"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Connected Devices"
-          },
-          {
-            "name": "Developer Documentation"
-          },
-          {
-            "name": "Developer Engagement"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Emerging Technologies"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Fundraising"
-          },
-          {
-            "name": "Hive Network"
-          },
-          {
-            "name": "Labs"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Rust"
-          },
-          {
-            "name": "Security"
-          },
-          {
-            "name": "User Research"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "UX"
-          },
-          {
-            "name": "Web Compatibility"
-          },
-          {
-            "name": "Web Development"
-          },
-          {
-            "name": "WebFWD"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Browser Extensions"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Rust"
-          },
-          {
-            "name": "Testing"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_interests": [
-          {
-            "name": "Advocacy"
-          },
-          {
-            "name": "Browser Extensions"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Rust"
-          },
-          {
-            "name": "Testing"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "bio": "Full Stack Developer @ WieLabs",
-        "mentor": {
-          "first_name": "Alex",
-          "last_name": "Lakatos",
-          "display_name": "alex_lakatos",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/18/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/u/HarshaBandaru/",
-        "timezone": "Asia/Kolkata",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/HarshaBandaru/"
-      }
-    },
-    {
       "first_name": "Mrinal",
       "last_name": "Jain",
       "display_name": "mrinal",
@@ -15465,85 +14274,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/end3r/"
-      }
-    },
-    {
-      "first_name": "Ivan",
-      "last_name": "Zeledon",
-      "display_name": "IZeledonS",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/1989/",
-      "profile": {
-        "first_name": "Ivan",
-        "last_name": "Zeledon",
-        "display_name": "IZeledonS",
-        "date_joined_program": "2014-10-14",
-        "date_left_program": null,
-        "city": "Managua",
-        "region": "Managua",
-        "country": "Nicaragua",
-        "twitter_account": "Ivan26104833",
-        "jabber_id": "",
-        "irc_name": "IvanZS",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:IvanZS",
-        "irc_channels": "",
-        "linkedin_url": "",
-        "facebook_url": "https://www.facebook.com/ivan.zeledon.9",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Thunderbird"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "i am a system enginer \r\ndeveloper\r\ni am 28 years old",
-        "mentor": {
-          "first_name": "Hugo",
-          "last_name": "Acosta",
-          "display_name": "nex",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/163/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/es/u/IZeledonS/",
-        "timezone": "",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/IZeledonS/"
       }
     },
     {
@@ -16605,8 +15335,8 @@
         "display_name": "AjayKumarJogawath",
         "date_joined_program": "2014-08-11",
         "date_left_program": null,
-        "city": "Chandigarh",
-        "region": "Punjab",
+        "city": "Hyderabad",
+        "region": "Telangana",
         "country": "India",
         "twitter_account": "akjogawath",
         "jabber_id": "",
@@ -17425,136 +16155,6 @@
       }
     },
     {
-      "first_name": "Mahmood",
-      "last_name": "Qudah",
-      "display_name": "m_qudah",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/1601/",
-      "profile": {
-        "first_name": "Mahmood",
-        "last_name": "Qudah",
-        "display_name": "m_qudah",
-        "date_joined_program": "2014-04-13",
-        "date_left_program": null,
-        "city": "Irbid",
-        "region": "jordan",
-        "country": "Jordan",
-        "twitter_account": "QudahMahmood",
-        "jabber_id": "",
-        "irc_name": "m_qudah",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Mahmood.Qudah",
-        "irc_channels": "",
-        "linkedin_url": "http://www.linkedin.com/profile/view?id=258113929",
-        "facebook_url": "http://facebook.com/joker11122",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Graphics"
-          },
-          {
-            "name": "Identity"
-          },
-          {
-            "name": "Infrastructure Security"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "Security"
-          },
-          {
-            "name": "Services"
-          },
-          {
-            "name": "Systems Administration"
-          },
-          {
-            "name": "Thunderbird"
-          },
-          {
-            "name": "User Support (SUMO)"
-          },
-          {
-            "name": "UX"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Public Relations Officer - Mozilla Arabic community ,,, \r\nSoftware Developer and Ethical Hacker ,,,\r\ncomputer science student in yarmouk university - irbid - jordan ,,,\r\nI have started contributing with Mozilla in 2013 because of the need to have the arabic version of Mozilla products in order to be delivered to as much people as possible. Today we are continuing the mission and leading its parts to spread the name of Mozilla among our countries //// \r\nOffice hours : https://calendly.com/qudahmahmood",
-        "mentor": {
-          "first_name": "Shahid Ali",
-          "last_name": "Farooqui",
-          "display_name": "shahidfarooqui",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/201/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/m.qudah/",
-        "timezone": "Asia/Amman",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/m_qudah/"
-      }
-    },
-    {
       "first_name": "Dian Ina",
       "last_name": "Mahendra",
       "display_name": "alamanda",
@@ -17854,7 +16454,7 @@
         "display_name": "Kumaresan",
         "date_joined_program": "2014-03-11",
         "date_left_program": null,
-        "city": "Kottayam",
+        "city": "Thiruvananthapuram",
         "region": "Kerala",
         "country": "India",
         "twitter_account": "cskumaresan",
@@ -18018,6 +16618,9 @@
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Review"
           },
           {
             "name": "Resources"
@@ -18313,114 +16916,6 @@
       }
     },
     {
-      "first_name": "Muhammad Hasan",
-      "last_name": "Ahmed",
-      "display_name": "mhasan",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/1394/",
-      "profile": {
-        "first_name": "Muhammad Hasan",
-        "last_name": "Ahmed",
-        "display_name": "mhasan",
-        "date_joined_program": "2014-01-22",
-        "date_left_program": null,
-        "city": "Karachi",
-        "region": "Sindh",
-        "country": "Pakistan",
-        "twitter_account": "im_mhasan",
-        "jabber_id": "",
-        "irc_name": "hasan",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Mhasan",
-        "irc_channels": "",
-        "linkedin_url": "https://www.linkedin.com/in/muhammedhasan",
-        "facebook_url": "http://facebook.com/iam.mhasan",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Market Insights"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Metrics"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "User Engagement"
-          },
-          {
-            "name": "User Research"
-          },
-          {
-            "name": "Web Compatibility"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Testing"
-          }
-        ],
-        "mobilising_interests": [
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Testing"
-          }
-        ],
-        "bio": "I have been a Firefox Support Contributor on [Mozilla Support Forum](https://support.mozilla.org/en-US/) as [mha007](https://support.mozilla.org/en-US/user/mha007), where I am registered in the [\"Contributors\"](https://support.mozilla.org/en-US/groups/contributors) group.  \r\n\r\nI represented my country Pakistan, in [Mozilla Camp Asia 2011](https://wiki.mozilla.org/AsiaCamp2011) which was held in Kuala Lumpur, Malaysia, from 18-20 November 2011. Since then I'm involved in building the Mozilla Community in Pakistan.  \r\n<br>  \r\n\r\n**Update 26-09-2014:** I have joined the [Firefox Student Ambassadors](https://www.mozilla.org/en-US/contribute/studentambassadors/) program as [Regional Ambassador Lead (RAL) of Pakistan](https://wiki.mozilla.org/StudentAmbassadors/RAL).  \r\n<br>  \r\n\r\n**Update May 2016:** I have joined the **Campus Advisory Committee** (CAC) cohort to reinvent Mozilla's presence on college/university campus around the world by helping develop a new [Mozilla on Campus](http://georgeroter.org/2016/05/17/reinventing-mozilla-on-campus/) project. [Mozilla Campus Clubs](http://campus.mozilla.community/) were launched in September 2016 and I'm serving as a **Campus Advisor** to help, support, guide, mentor, grow & develop it in general and in my region.",
-        "mentor": {
-          "first_name": "Sayak",
-          "last_name": "Sarkar",
-          "display_name": "sayak_bugsmith",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/255/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/mha007/",
-        "timezone": "Asia/Karachi",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/mhasan/"
-      }
-    },
-    {
       "first_name": "Ram Dayal",
       "last_name": "Vaishnav",
       "display_name": "Ram",
@@ -18500,17 +16995,15 @@
           }
         ],
         "bio": "Brief Bio\r\n\r\n* Mozilla Tech Speaker\r\n* Mozilla Representative\r\n* Community Advisory Group\r\n* Co-founder & community liaison of WebVR India group (a developer community in India working on VR development & evangelism). \r\n* DevDiner.com, a website related to emerging technologies, named Ram as one of their VR inspirations of 2016 for his inspirational work in the fields of VR & IoT.\r\n\r\nConferences:\r\n\r\n* Mozilla All Hands 2015, Orlando, Florida USA\r\n* FOSSASIA 2016, Singapore\r\n* MozFest 2016, London\r\n* Mozilla All Hands 2016, Hawaii USA\r\n* SHA 2017, Netherlands\r\n* JSFoo 2017, Bangalore India\r\n\r\nMentions:\r\n\r\n* https://www.mozilla.org/credits/\r\n* Mozilla Monument at San Francisco Space\r\n* Friend of Mozilla, May 2015\r\n* Friend of Firefox Marketplace, June 2015\r\n* Rep of the Month, Nov 2016\r\n* 'VR inspirations of 2016' by DevDiner.com\r\n* Followed by [@aframevr](https://twitter.com/aframevr/following)\r\n\r\nProjects:\r\n\r\n* SuMo, L10n\r\n* FSA, Campus Clubs\r\n* Firefox OS, Marketplace\r\n* Connected Devices\r\n* Mozilla VR\r\n\r\nCatch more updates from Ram's posts at\r\n\r\n* Personal blog - https://gurumukhi.wordpress.com/\r\n* MozVR blog - https://blog.mozvr.com/author/ram/\r\n* Mozilla India blog - http://blog.mozillaindia.org/author/gurumukhi\r\n* YouTube Channel - https://www.youtube.com/user/vaishnavrd",
-        "mentor": {
-          "first_name": "Priyanka",
-          "last_name": "Nag",
-          "display_name": "priynag",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/435/"
-        },
+        "mentor": null,
         "mozillians_profile_url": "https://mozillians.org/en-US/u/gurumukhi",
         "timezone": "",
         "groups": [
           {
             "name": "Rep"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/Ram/"
@@ -18630,79 +17123,6 @@
       }
     },
     {
-      "first_name": "Harsha",
-      "last_name": "Vardhan",
-      "display_name": "HarshaVardhan",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/1257/",
-      "profile": {
-        "first_name": "Harsha",
-        "last_name": "Vardhan",
-        "display_name": "HarshaVardhan",
-        "date_joined_program": "2013-12-04",
-        "date_left_program": null,
-        "city": "Hyderabad",
-        "region": "Andhra Pradesh",
-        "country": "India",
-        "twitter_account": "harshanotharsh",
-        "jabber_id": "",
-        "irc_name": "Harsha",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Harsha171993",
-        "irc_channels": "#india #remo #forefoxstudents",
-        "linkedin_url": "http://www.linkedin.com/harsha_vardhan",
-        "facebook_url": "https://www.facebook.com/harsha.vardhan.50364592",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Finance"
-          },
-          {
-            "name": "Fundraising"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "User Research"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Heavily passionate about the concept of Open Source. Enthusiastic to work for FOSS projects. Fascinated about Augmented Reality.\r\n\r\nTaking up the initiatives, Standing up for social issues, and Making a road map for a confused crowd matters me a lot.\r\n\r\nFair marketer, ensuring benefits at both the user and producer ends. A potential leader who decentralizes the power impartially by being Honest at heart and Optimist at thought.\r\n\r\nMy core principle is to respect, support and help the fellow individual. I give importance to human relationships.\r\nI am an ambivert",
-        "mentor": {
-          "first_name": "Sayak",
-          "last_name": "Sarkar",
-          "display_name": "sayak_bugsmith",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/255/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/harshavardhankuchi/",
-        "timezone": "Asia/Kolkata",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/HarshaVardhan/"
-      }
-    },
-    {
       "first_name": "Oarabile",
       "last_name": "Mudongo",
       "display_name": "omudongo",
@@ -18716,12 +17136,12 @@
         "city": "Cape Town",
         "region": "Southern Africa",
         "country": "South Africa",
-        "twitter_account": "oarabilemudong1",
+        "twitter_account": "o_mudongo",
         "jabber_id": "",
         "irc_name": "Oarabile Joseph Mudongo",
         "wiki_profile_url": "https://wiki.mozilla.org/User:Oarabile_Mudongo",
         "irc_channels": "#airmozilla\r\n#mozsummit\r\n#mozillians",
-        "linkedin_url": "http://www.linkedin.com/profile/view?id=189514240&trk=nav_responsive_tab_profile",
+        "linkedin_url": "https://www.linkedin.com/in/omudongo/",
         "facebook_url": "http://www.facebook.com/oarabile.mudongo",
         "diaspora_url": "",
         "functional_areas": [
@@ -18773,7 +17193,7 @@
         ],
         "mobilising_skills": [],
         "mobilising_interests": [],
-        "bio": "Mozillian for the past 6+ years and an avid community builder with passion in open source communities.",
+        "bio": "Ex-Mozilla Reps Council Member (2018/2019); Mozillian for 9 years now, passionate about building open movements, rallying citizens of the web, building alliances with likeminded organizations and leaders, and growing the open internet movement.",
         "mentor": {
           "first_name": "Daniele",
           "last_name": "Scasciafratte",
@@ -18784,74 +17204,10 @@
         "timezone": "",
         "groups": [
           {
-            "name": "Council"
-          },
-          {
             "name": "Rep"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/omudongo/"
-      }
-    },
-    {
-      "first_name": "Kailas",
-      "last_name": "PATIL",
-      "display_name": "patilkr24",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/1148/",
-      "profile": {
-        "first_name": "Kailas",
-        "last_name": "PATIL",
-        "display_name": "patilkr24",
-        "date_joined_program": "2013-11-03",
-        "date_left_program": null,
-        "city": "PUNE",
-        "region": "Maharashtra",
-        "country": "India",
-        "twitter_account": "patilkr",
-        "jabber_id": "",
-        "irc_name": "Kailas",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Patilkr",
-        "irc_channels": "#security,#india,#jetpack,#developers",
-        "linkedin_url": "",
-        "facebook_url": "https://www.facebook.com/patilkr24",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Security"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "What are my Objectives? \r\n\r\n1. Improve security of the Firefox web browser to move it\r\ntowards the Web’s most secured and private browser.\r\n\r\n2. Help developers get started building Firefox Extensions\r\n\r\n3. Help developers get started building FirefoxOS App\r\n\r\n4. Raise awareness of Firefox/FirefoxOS and the developer ecosystem\r\n\r\n5. Educate and inspire developers to contribute to open source projects\r\n\r\n\r\n My Qualifications:\r\n\r\nPhD, School of Computing, National University of Singapore,\r\nSingapore, 2013\r\n\r\n\r\n\r\n My Open Source Participation:\r\n\r\n1. Google Summer Code 2012\r\n \r\n2. Google Summer Code 2013\r\n\r\n\r\n \r\n  Mozilla Firefox Extensions I have Developed: \r\n\r\n1. clearHTTPStatus\r\n\r\n2. Network Bandwidth Saver\r\n\r\n3. UserCSP\r\n\r\n \r\n My Office Hours: \r\n\r\nThese are the hours I reserved for Mozilla Rep stuff.  During this time I will be available on IRC, email, etc.\r\n\r\n  Mon - Sat  : 10:00pm - 11:00pm (IST time [GMT+5:30])",
-        "mentor": {
-          "first_name": "Ankit",
-          "last_name": "Gadgil",
-          "display_name": "ankitgadgil",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/325/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/patilkr24/",
-        "timezone": "",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/patilkr24/"
       }
     },
     {
@@ -19667,91 +18023,6 @@
       }
     },
     {
-      "first_name": "Surit",
-      "last_name": "Aryal",
-      "display_name": "Surit",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/828/",
-      "profile": {
-        "first_name": "Surit",
-        "last_name": "Aryal",
-        "display_name": "Surit",
-        "date_joined_program": "2013-07-14",
-        "date_left_program": null,
-        "city": "Kathmandu",
-        "region": "Bagmati",
-        "country": "Nepal",
-        "twitter_account": "imsurit",
-        "jabber_id": "surit@dukgo.com",
-        "irc_name": "imsurit",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Surit",
-        "irc_channels": "#nepal #remo #sumo #firefox #sumomeet #sumolive #mozwebqa #qa #firefoxstudents",
-        "linkedin_url": "http://www.linkedin.com/profile/view?id=99236880&trk=nav_responsive_tab_profile",
-        "facebook_url": "https://www.facebook.com/imsurit",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Diversity and Inclusion"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Graphics"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "User Support (SUMO)"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "A FOSSian, Tech enthusiast. Loves web\r\n\r\nAs a mozillian:\r\n\r\nJoined mozillia in 2012. Stared with contributing in SuMo. Currently working as Buddy in SuMo, SWG lead, spreading the word. Basically a fan of mozilla.",
-        "mentor": {
-          "first_name": "Shahid Ali",
-          "last_name": "Farooqui",
-          "display_name": "shahidfarooqui",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/201/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/surit/",
-        "timezone": "Asia/Kathmandu",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/Surit/"
-      }
-    },
-    {
       "first_name": "Dave",
       "last_name": "Villacreses",
       "display_name": "DaveVillacreses",
@@ -20351,9 +18622,6 @@
         "timezone": "Europe/Berlin",
         "groups": [
           {
-            "name": "Council"
-          },
-          {
             "name": "Rep"
           },
           {
@@ -20710,15 +18978,15 @@
         "display_name": "rskikuli",
         "date_joined_program": "2013-02-05",
         "date_left_program": null,
-        "city": "Elbasan",
-        "region": "Elbasan",
+        "city": "Tirana",
+        "region": "Tirana",
         "country": "Albania",
         "twitter_account": "rskikuli",
         "jabber_id": "",
-        "irc_name": "redons",
+        "irc_name": "rskikuli",
         "wiki_profile_url": "https://wiki.mozilla.org/User:Rskikuli",
         "irc_channels": "",
-        "linkedin_url": "http://www.linkedin.com/in/rskikuli",
+        "linkedin_url": "",
         "facebook_url": "",
         "diaspora_url": "",
         "functional_areas": [
@@ -20763,7 +19031,7 @@
           "_url": "https://reps.mozilla.org/api/remo/v1/users/129/"
         },
         "mozillians_profile_url": "https://mozillians.org/en-US/u/rskikuli",
-        "timezone": "",
+        "timezone": "Europe/Sarajevo",
         "groups": [
           {
             "name": "Rep"
@@ -20828,182 +19096,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/biraj/"
-      }
-    },
-    {
-      "first_name": "Ankit",
-      "last_name": "Bahuguna",
-      "display_name": "netankit",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/486/",
-      "profile": {
-        "first_name": "Ankit",
-        "last_name": "Bahuguna",
-        "display_name": "netankit",
-        "date_joined_program": "2013-01-31",
-        "date_left_program": null,
-        "city": "Munich",
-        "region": "Bavaria",
-        "country": "Germany",
-        "twitter_account": "codekee",
-        "jabber_id": "ankitb",
-        "irc_name": "netankit",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Netankit",
-        "irc_channels": "",
-        "linkedin_url": "http://in.linkedin.com/in/ankitbahuguna/",
-        "facebook_url": "https://www.facebook.com/ankitbahuguna",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Fundraising"
-          },
-          {
-            "name": "Identity"
-          },
-          {
-            "name": "Labs"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Market Insights"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Metrics"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "Systems Administration"
-          },
-          {
-            "name": "User Engagement"
-          },
-          {
-            "name": "User Research"
-          },
-          {
-            "name": "Web Development"
-          },
-          {
-            "name": "WebFWD"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Hi! I am Ankit Bahuguna,  currently working as a Software Engineer (R & D) at Cliqz GmbH Munich. Before this, I graduated with a Master's Degree in Informatics (Computer Science) from TU Munich, Germany and worked as a Software Engineer (werkstudent) at Teradata. I was a  NIXI and A.T. Kearney Fellow for 2014.\r\n\r\nPreviously, I worked as a Research Engineer at IIT Bombay, Web Education Community Contributor at World Wide Web Consortium (W3C), Member of the OW2 Consortium and a Red Hat Certified Engineer. \r\n\r\nI graduated with a Bachelor of Technology (Honors) Degree in Computer Engineering from Rajasthan Technical University, India. During this time, I was fortunate to be part of Opera Campus Crew Team and was also awarded Junior Research Fellowship at IIT Bombay for three consecutive semesters. I am passionate about the web and technology related to it. \r\n\r\nYou may find more about my work from the following link:\r\nLinkedIn: http://www.linkedin.com/in/ankitbahuguna",
-        "mentor": {
-          "first_name": "Henrik",
-          "last_name": "Mitsch",
-          "display_name": "hmitsch",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/101/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/ankitbahuguna",
-        "timezone": "",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/netankit/"
-      }
-    },
-    {
-      "first_name": "Goce",
-      "last_name": "Mitevski",
-      "display_name": "GoceMitevski",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/485/",
-      "profile": {
-        "first_name": "Goce",
-        "last_name": "Mitevski",
-        "display_name": "GoceMitevski",
-        "date_joined_program": "2013-01-31",
-        "date_left_program": null,
-        "city": "Skopje",
-        "region": "Macedonia",
-        "country": "Macedonia, F.Y.R. of",
-        "twitter_account": "GoceMitevski",
-        "jabber_id": "",
-        "irc_name": "sepokroce",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:GoceMitevski",
-        "irc_channels": "",
-        "linkedin_url": "http://www.linkedin.com/in/gocemitevski",
-        "facebook_url": "https://www.facebook.com/gocemitevski",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Graphics"
-          },
-          {
-            "name": "UX"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "",
-        "mentor": {
-          "first_name": "Stefania Ioana",
-          "last_name": "Chiorean",
-          "display_name": "ioana_chiorean",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/109/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/GoceMitevski",
-        "timezone": "",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/GoceMitevski/"
       }
     },
     {
@@ -21559,9 +19651,6 @@
             "name": "Mentor"
           },
           {
-            "name": "Review"
-          },
-          {
             "name": "Peers"
           },
           {
@@ -21736,102 +19825,6 @@
       }
     },
     {
-      "first_name": "Priyanka",
-      "last_name": "Nag",
-      "display_name": "priynag",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/435/",
-      "profile": {
-        "first_name": "Priyanka",
-        "last_name": "Nag",
-        "display_name": "priynag",
-        "date_joined_program": "2012-10-21",
-        "date_left_program": null,
-        "city": "Pune",
-        "region": "Maharashtra",
-        "country": "India",
-        "twitter_account": "priynag",
-        "jabber_id": "",
-        "irc_name": "priynag",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Priyanka13",
-        "irc_channels": "#womoz, #remo, #mdn",
-        "linkedin_url": "http://in.linkedin.com/pub/priyanka-nag/32/944/963",
-        "facebook_url": "https://www.facebook.com/priyanka.nag",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Documentation"
-          },
-          {
-            "name": "Diversity and Inclusion"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_interests": [
-          {
-            "name": "Browser Extensions"
-          },
-          {
-            "name": "Rust"
-          }
-        ],
-        "bio": "I am a woman in Open Source Community who enjoys being geeky. I like spending 15 hours a day in-front of my computer. I do localization work for both Mozilla and Wikipedia (English to Bengali localization). Am a great enthusiast in all community events and love the very idea of community building and making new friends.\r\nI am involved with a few Open Source Community as well like Mozilla and MediaWiki. Though am a developer, am more passionate towards technical documentation and Software Architecture Designing than pure hard code coding. Am a blogger by hobby and writing is my passion. \r\nOther than that, I was also a participant in The Great Mind Challenge 2011 which was organised by IBM.\r\nAll these projects are fun to work on. Mainly working on any FOSS project is great experience because at any moment if I am stuck, I always end up finding several people all ready to help and I end up learning so much new stuff and also making new friends through these communications.\r\nI have been had the opportunity of representing India in the World Skills Competition in November 2011 for the category of IT Software solutions for Business. I am presently pursuing Msc in Computer Applications from Symbiosis Institute of Computer Studies and Research.\r\n\r\n##Office Hours\r\n\r\nThis is the time I have kept reserved for all my Mozilla activities, mainly for all communications with Mozillians. During the office hours, I will be available online on IRC, Telegram, Facebook, Email and Skype for any discussions.\r\n\r\n* Monday and Tuesday: 16.30 UTC  to 17:30 UTC (22.30 IST to 23.30 IST)\r\n\r\nThe office hours are the prefered time for communications with Mozillians but that never means someone can't ping me at other hours. Please feel free to ping me anytime you need help.",
-        "mentor": {
-          "first_name": "Sayak",
-          "last_name": "Sarkar",
-          "display_name": "sayak_bugsmith",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/255/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/u/priynag/",
-        "timezone": "Asia/Kolkata",
-        "groups": [
-          {
-            "name": "Rep"
-          },
-          {
-            "name": "Mentor"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/priynag/"
-      }
-    },
-    {
       "first_name": "Luis A",
       "last_name": "Sanchez",
       "display_name": "lasr21",
@@ -21901,7 +19894,7 @@
             "name": "Marketing"
           }
         ],
-        "bio": "Happy Mozillian based in the awesome ",
+        "bio": "Happy Mozillian based in Mexico City, have been around Mozilla since 2009.",
         "mentor": {
           "first_name": "Konstantina",
           "last_name": "Papadea",
@@ -22039,7 +20032,7 @@
         "mobilising_interests": [],
         "bio": "Speaker, developer, Entrepreneur,",
         "mentor": null,
-        "mozillians_profile_url": "https://mozillians.org/es/Alexfuser",
+        "mozillians_profile_url": "https://mozillians.org/u/alexfuser/",
         "timezone": "America/Mexico_City",
         "groups": [
           {
@@ -22091,6 +20084,9 @@
             "name": "Developer Documentation"
           },
           {
+            "name": "Developer Engagement"
+          },
+          {
             "name": "Developer Tools"
           },
           {
@@ -22098,6 +20094,9 @@
           },
           {
             "name": "Engineering Program Management"
+          },
+          {
+            "name": "Evangelism Mission"
           },
           {
             "name": "Evangelism Product"
@@ -22154,6 +20153,9 @@
             "name": "Systems Administration"
           },
           {
+            "name": "Testing"
+          },
+          {
             "name": "User Engagement"
           },
           {
@@ -22188,7 +20190,7 @@
             "name": "WebVR"
           }
         ],
-        "bio": "ISTQB™ Tester Foundation Level and Scrum Manager Certified. Computer Engineer at the Universidad Americana from Paraguay, with experience in technology information and services. She has worked mainly in analysis, preparation of designs in the planning, management, optimization and control of information systems. Abilities and skills for management and project tracking software.\r\n\r\nCommunity volunteer at Mozilla, oriented projects finish with succesful, technical support, events organized and founder Mozilla community in Paraguay. Legal Mozilla Representative in Chile, collaborates with free software projects and open source social purposes. Also participates in various Software Freedom’s community ecosistems events exposing issues and project management with agile methodologies.\r\n\r\nMozilla community is a big organization makes internet health better and may we continue with service of volunteering for many years to come. And i'm sure we are doing a great impact in our mozillians lifes. Yay, i'm very excited! Since 2009 and go ahead <3",
+        "bio": "<div class=\"large-11 columns markdown\">\r\n            <h2><strong>about:about</strong></h2>\r\n<p> <em>Mozillian Lourdes Castillo </em></p>\r\n\r\n<p>ISTQB™ Tester Foundation Level and Scrum Manager Certified. Computer Engineer at the Universidad Americana from Paraguay, with experience in technology information and services. Skills for management and tracking software projects.</p>\r\n<hr>\r\n\r\n<p>Community volunteer at <a href=\"http://www.mozillachile.cl//\">Mozilla Chile</a>, oriented projects finish with succesful, technical support, events organized and founder Mozilla community in Paraguay. Legal Mozilla Representative in Chile, collaborates with free software projects and open source social purposes. Also participates in various Software Freedom’s community ecosistems events exposing issues and project management with agile methodologies.</p>\r\n<hr>\r\n<h2> I support the Mozilla Manifest </h2>\r\n<p><em>because I believe that We are committed to an internet that catalyzes collaboration between various communities that work together for the common good.</em></p>\r\n </div>",
         "mentor": {
           "first_name": "Arturo",
           "last_name": "Martinez",
@@ -22663,91 +20665,6 @@
       }
     },
     {
-      "first_name": "Christos",
-      "last_name": "Bacharakis",
-      "display_name": "bacharakis",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/314/",
-      "profile": {
-        "first_name": "Christos",
-        "last_name": "Bacharakis",
-        "display_name": "bacharakis",
-        "date_joined_program": "2012-06-15",
-        "date_left_program": null,
-        "city": "Berlin",
-        "region": "Berlin",
-        "country": "Germany",
-        "twitter_account": "Bacharakis",
-        "jabber_id": "",
-        "irc_name": "bacharakis",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Bacharakis",
-        "irc_channels": "#remo #b2g",
-        "linkedin_url": "",
-        "facebook_url": "http://www.facebook.com/gameoflife",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Tools"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Hive Network"
-          },
-          {
-            "name": "Labs"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "UX"
-          },
-          {
-            "name": "Web Development"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "Open Source Hacker messing around with everything regarding Free/Open source software.\r\n\r\nActive member in various global and national communities such as: Fedora Project, Mozilla Greece, Hackerspace.gr, Sugar (OLPC), Mozilla Boot to Gecko and Greek Android Community.\r\n\r\n### Office Hours\r\nYou can take a look in the following [calendar](https://www.google.com/calendar/embed?src=cmpahar%40gmail.com&ctz=Europe/Athens)  and contact me the hours that aren't marked as busy mostly through Skype (Christos Bacharakis cmpahar).\r\nYou can also drop me a line by email and I will get back to you as soon as I read it.",
-        "mentor": {
-          "first_name": "Michael",
-          "last_name": "Kohler",
-          "display_name": "michaelkohler",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/449/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/bacharakis",
-        "timezone": "Europe/Berlin",
-        "groups": [
-          {
-            "name": "Rep"
-          },
-          {
-            "name": "Mentor"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/bacharakis/"
-      }
-    },
-    {
       "first_name": "Faisal",
       "last_name": "Aziz",
       "display_name": "FaisalAziz",
@@ -23142,11 +21059,11 @@
         "city": "Girardot",
         "region": "Cundinamarca",
         "country": "Colombia",
-        "twitter_account": "jairoruiz33",
+        "twitter_account": "",
         "jabber_id": "jairoruiz33@gmail.com",
         "irc_name": "jairoruiz33",
         "wiki_profile_url": "",
-        "irc_channels": "#ReMo",
+        "irc_channels": "",
         "linkedin_url": "http://co.linkedin.com/in/jairoruiz",
         "facebook_url": "",
         "diaspora_url": "",
@@ -23194,6 +21111,9 @@
             "name": "Recruiting"
           },
           {
+            "name": "Security"
+          },
+          {
             "name": "Services"
           },
           {
@@ -23206,9 +21126,44 @@
             "name": "Web Development"
           }
         ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "A happy man, passionate about the internet and his tools, a person of continuous self-learning, investigative and restless, that's me.  \r\nNow, as the father of this planet I feel a huge responsibility and is to teach, so the project for children is for me a tell the world that we must protect them and help them to understand this new world of the internet.  \r\nI give the necessary logistical and professional resources so that this project is a life experience as representative of mozilla proud to protect the internet.  \r\nProject Led by the agency Digital Two Inc, I as a representative of mozilla put the credit of all the tools made under the language of mozilla RUST and other tools that can be developed at the time of the project.  \r\nThe children will benefit from all this so if you are interested or interested please write me.",
+        "mobilising_skills": [
+          {
+            "name": "Browser Extensions"
+          },
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Teaching Privacy"
+          },
+          {
+            "name": "Testing"
+          }
+        ],
+        "mobilising_interests": [
+          {
+            "name": "Advocacy"
+          },
+          {
+            "name": "Browser Extensions"
+          },
+          {
+            "name": "Localization"
+          },
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Rust"
+          },
+          {
+            "name": "Testing"
+          },
+          {
+            "name": "WebVR"
+          }
+        ],
+        "bio": "**Lover of God and good practices on the internet**\r\n\r\nI am a happy man, passionate about the Internet and its tools, a person of continuous self-learning, research and restless, that I like to be.\r\n\r\n\r\n\r\nI demand to have the responsibility of teaching how to make the internet a safer place.\r\n\r\n\r\n\r\nI have the necessary logistic and professional resources for my life as a representative of mozilla, to protect the internet.\r\nI love being a representative of mozilla, since this work fills me with joy and children will benefit from all this in the future if we do it well.\r\n\r\n\r\n\r\nYou can talk to me without mess to my emaill, I will gladly answer you.",
         "mentor": {
           "first_name": "Luis A",
           "last_name": "Sanchez",
@@ -24472,7 +22427,7 @@
         ],
         "mobilising_skills": [],
         "mobilising_interests": [],
-        "bio": "# Bio\r\nLong time Mozilla supporter since Firefox 1.0, member of the Mozilla Venezuela spreading Firefox Awesomess, started as a Mozilla Student Rep at my university [UNEXPO](http://www.bqto.unexpo.edu.ve/) where I'm currently studying Electronic Engineering, Front-End Web Developer, Marketing Maniac and Mozilla Rep & Mentor, promoting the Open Web, FOSS and Tech Culture in Venezuela. \r\n\r\n# What Do I Do?\r\nI'm currently participating on my local community [Mozilla Venezuela](http://www.mozillavenezuela.org/) growing up and empowering the mozillians in venezuela to get them involved more easily, also attending to several events were I give talks and presentations to let other people know about Mozilla, our mission and products. \r\nI'm active too on the [Mozilla Hispano](http://www.mozilla-hispano.org/) community, helping in the podcast, mentoring new contributors and other areas.\r\nRecently I have been more focused on Firefox OS Marketing and leading the Mobilizer efforts in Venezuela.\r\nI love what I do, and I'm thankful to Mozilla for helping me to do it!\r\n\r\nFormer Reps Council Member and current Reps Mentor.\r\n\r\n# Let's Talk:\r\nPlease send me an email to schedule a meeting.  \r\nOffice Hours: 19.00 UTC - 22.00 UTC",
+        "bio": "# Bio\r\nLong time Mozilla supporter since Firefox 1.0, member of the Mozilla Venezuela spreading Firefox Awesomess, started as a Mozilla Student Rep at my university [UNEXPO](http://www.bqto.unexpo.edu.ve/) where I'm currently studying Electronic Engineering, Front-End Web Developer, Marketing Maniac and Mozilla Rep & Mentor, promoting the Open Web, FOSS and Tech Culture in Venezuela. \r\n\r\n# What Do I Do?\r\nI'm currently participating on my local community [Mozilla Venezuela](http://www.mozillavenezuela.org/) growing up and empowering the mozillians in venezuela to get them involved more easily, also attending to several events were I give talks and presentations to let other people know about Mozilla, our mission and products. \r\nI'm active too on the [Mozilla Hispano](http://www.mozilla-hispano.org/) community, helping in the podcast, mentoring new contributors and other areas.\r\nRecently I have been more focused on Firefox Marketing and leading the Mobilizer efforts in Venezuela.\r\nI love what I do, and I'm thankful to Mozilla for helping me to do it!\r\n\r\nFormer Reps Council Member and current Reps Mentor.\r\n\r\n# Let's Talk:\r\nPlease send me an email to schedule a meeting.  \r\nOffice Hours: 19.00 UTC - 22.00 UTC",
         "mentor": {
           "first_name": "Luis A",
           "last_name": "Sanchez",
@@ -24487,9 +22442,6 @@
           },
           {
             "name": "Mentor"
-          },
-          {
-            "name": "Review"
           },
           {
             "name": "Resources"
@@ -24595,10 +22547,16 @@
         "timezone": "",
         "groups": [
           {
+            "name": "Council"
+          },
+          {
             "name": "Rep"
           },
           {
             "name": "Mentor"
+          },
+          {
+            "name": "Resources"
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/shahidfarooqui/"
@@ -24704,73 +22662,6 @@
       }
     },
     {
-      "first_name": "Ruben",
-      "last_name": "Martin",
-      "display_name": "nukeador",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/166/",
-      "profile": {
-        "first_name": "Ruben",
-        "last_name": "Martin",
-        "display_name": "nukeador",
-        "date_joined_program": "2011-06-01",
-        "date_left_program": null,
-        "city": "Valladolid",
-        "region": "Castilla y León",
-        "country": "Spain",
-        "twitter_account": "nukeador",
-        "jabber_id": "nukeador@mozilla-hispano.org",
-        "irc_name": "Nukeador",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Nukeador",
-        "irc_channels": "#mozilla-hispano, #europe, #l10n, #remo",
-        "linkedin_url": "",
-        "facebook_url": "",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "Systems Administration"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "## Bio\r\n\r\nI'm Rubén (aka Nukeador), and I've been collaborating with Mozilla community since 2004, from websites' localization to QA, user support, community marketing and organization, events in Spain and IT tasks at [Mozilla Hispano](http://www.mozilla-hispano.org) community.\r\n\r\nCurrently working on:\r\n\r\n* Mozilla Reps Program Manager\r\n* Mozilla Hispano IT coordination.\r\n* Mozilla Reps Council member.\r\n* Mozilla Reps mentor.\r\n\r\n## Why a Rep\r\n\r\nI'm a Rep as a way to get more involved in the project, its future and to empower other mozillians.\r\n\r\n## Office Hours\r\n\r\nI am usually available for talking Mon-Fri 9:00 - 12:00 UTC. Ping me via any communication channel you find me on, some of which are listed in this page. If it's important, email is the best way to get my attention.\r\n\r\n\r\n**Please [use this page](https://calendly.com/nukeador) to request a meeting with me.**",
-        "mentor": {
-          "first_name": "Konstantina",
-          "last_name": "Papadea",
-          "display_name": "couci",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/285/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/u/nukeador",
-        "timezone": "Europe/Madrid",
-        "groups": [
-          {
-            "name": "Admin"
-          },
-          {
-            "name": "Council"
-          },
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/nukeador/"
-      }
-    },
-    {
       "first_name": "Hugo",
       "last_name": "Acosta",
       "display_name": "nex",
@@ -24870,6 +22761,73 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/nex/"
+      }
+    },
+    {
+      "first_name": "Ruben",
+      "last_name": "Martin",
+      "display_name": "nukeador",
+      "_url": "https://reps.mozilla.org/api/remo/v1/users/166/",
+      "profile": {
+        "first_name": "Ruben",
+        "last_name": "Martin",
+        "display_name": "nukeador",
+        "date_joined_program": "2011-06-01",
+        "date_left_program": null,
+        "city": "Valladolid",
+        "region": "Castilla y León",
+        "country": "Spain",
+        "twitter_account": "nukeador",
+        "jabber_id": "nukeador@mozilla-hispano.org",
+        "irc_name": "Nukeador",
+        "wiki_profile_url": "https://wiki.mozilla.org/User:Nukeador",
+        "irc_channels": "#mozilla-hispano, #europe, #l10n, #remo",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "diaspora_url": "",
+        "functional_areas": [
+          {
+            "name": "Apps"
+          },
+          {
+            "name": "Localization"
+          },
+          {
+            "name": "People"
+          },
+          {
+            "name": "Public Relations"
+          },
+          {
+            "name": "Recruiting"
+          },
+          {
+            "name": "Systems Administration"
+          }
+        ],
+        "mobilising_skills": [],
+        "mobilising_interests": [],
+        "bio": "## Bio\r\n\r\nI'm Rubén (aka Nukeador), and I've been collaborating with Mozilla community since 2004, from websites' localization to QA, user support, community marketing and organization, events in Spain and IT tasks at [Mozilla Hispano](http://www.mozilla-hispano.org) community.\r\n\r\nCurrently working on:\r\n\r\n* Mozilla Reps Program Manager\r\n* Mozilla Hispano IT coordination.\r\n* Mozilla Reps Council member.\r\n* Mozilla Reps mentor.\r\n\r\n## Why a Rep\r\n\r\nI'm a Rep as a way to get more involved in the project, its future and to empower other mozillians.\r\n\r\n## Office Hours\r\n\r\nI am usually available for talking Mon-Fri 9:00 - 12:00 UTC. Ping me via any communication channel you find me on, some of which are listed in this page. If it's important, email is the best way to get my attention.\r\n\r\n\r\n**Please [use this page](https://calendly.com/nukeador) to request a meeting with me.**",
+        "mentor": {
+          "first_name": "Konstantina",
+          "last_name": "Papadea",
+          "display_name": "couci",
+          "_url": "https://reps.mozilla.org/api/remo/v1/users/285/"
+        },
+        "mozillians_profile_url": "https://mozillians.org/u/nukeador",
+        "timezone": "Europe/Madrid",
+        "groups": [
+          {
+            "name": "Admin"
+          },
+          {
+            "name": "Council"
+          },
+          {
+            "name": "Rep"
+          }
+        ],
+        "remo_url": "https://reps.mozilla.org/u/nukeador/"
       }
     },
     {
@@ -24992,6 +22950,196 @@
       }
     },
     {
+      "first_name": "Robert",
+      "last_name": "Kaiser",
+      "display_name": "KaiRo",
+      "_url": "https://reps.mozilla.org/api/remo/v1/users/126/",
+      "profile": {
+        "first_name": "Robert",
+        "last_name": "Kaiser",
+        "display_name": "KaiRo",
+        "date_joined_program": "2011-06-19",
+        "date_left_program": null,
+        "city": "Vienna",
+        "region": "Vienna",
+        "country": "Austria",
+        "twitter_account": "",
+        "jabber_id": "",
+        "irc_name": "KaiRo",
+        "wiki_profile_url": "https://wiki.mozilla.org/User:KaiRo",
+        "irc_channels": "#l10n,#mozilla.de,#crashkill,#pm,#developers,#techspeakers",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "diaspora_url": "https://joindiaspora.com/u/kairo",
+        "functional_areas": [
+          {
+            "name": "Apps"
+          },
+          {
+            "name": "Connected Devices"
+          },
+          {
+            "name": "Engineering Program Management"
+          },
+          {
+            "name": "Evangelism Product"
+          },
+          {
+            "name": "Firefox OS"
+          },
+          {
+            "name": "Identity"
+          },
+          {
+            "name": "Location Services"
+          },
+          {
+            "name": "Market Insights"
+          },
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Metrics"
+          },
+          {
+            "name": "Mozilla Reps"
+          },
+          {
+            "name": "Open Badges"
+          },
+          {
+            "name": "Privacy"
+          },
+          {
+            "name": "Quality Assurance"
+          },
+          {
+            "name": "Rust"
+          }
+        ],
+        "mobilising_skills": [
+          {
+            "name": "Localization"
+          },
+          {
+            "name": "Testing"
+          },
+          {
+            "name": "WebVR"
+          }
+        ],
+        "mobilising_interests": [
+          {
+            "name": "Advocacy"
+          },
+          {
+            "name": "WebVR"
+          }
+        ],
+        "bio": "I've been localizing the Mozilla \"SeaMonkey\" application suite to German (Mozilla deutsch) since late 1999, from summer 2004 until it was slowly replaced by paid staff, I was leading the \"Mozilla Localization Project (MLP)\", since March 2005 I've been in the SeaMonkey Council, serving as \"project coordinator\" for the project until early 2011. After that. I worked for Mozilla for 5 years as a Project Manager for Stability and Release Quality. Since early 2017, I'm also a Mozilla Tech Speaker.",
+        "mentor": {
+          "first_name": "Michael",
+          "last_name": "Kohler",
+          "display_name": "michaelkohler",
+          "_url": "https://reps.mozilla.org/api/remo/v1/users/449/"
+        },
+        "mozillians_profile_url": "https://mozillians.org/en-US/u/KaiRo/",
+        "timezone": "",
+        "groups": [
+          {
+            "name": "Rep"
+          }
+        ],
+        "remo_url": "https://reps.mozilla.org/u/KaiRo/"
+      }
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "King",
+      "display_name": "brianking",
+      "_url": "https://reps.mozilla.org/api/remo/v1/users/129/",
+      "profile": {
+        "first_name": "Brian",
+        "last_name": "King",
+        "display_name": "brianking",
+        "date_joined_program": "2011-06-01",
+        "date_left_program": null,
+        "city": "Novo mesto",
+        "region": "Dolenjska",
+        "country": "Slovenia",
+        "twitter_account": "brianking",
+        "jabber_id": "",
+        "irc_name": "kinger",
+        "wiki_profile_url": "https://wiki.mozilla.org/User:Kinger",
+        "irc_channels": "remo, remo-council, addons, mozdev, amo, amo-editors,, l10n",
+        "linkedin_url": "http://www.linkedin.com/in/briks",
+        "facebook_url": "http://www.facebook.com/brian.kinger",
+        "diaspora_url": "",
+        "functional_areas": [
+          {
+            "name": "Addons"
+          },
+          {
+            "name": "Apps"
+          },
+          {
+            "name": "Business Development"
+          },
+          {
+            "name": "Code Contributions"
+          },
+          {
+            "name": "Engineering Program Management"
+          },
+          {
+            "name": "Firefox Mobile"
+          },
+          {
+            "name": "Firefox OS"
+          },
+          {
+            "name": "Localization"
+          },
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Open Badges"
+          },
+          {
+            "name": "Web Development"
+          },
+          {
+            "name": "WebFWD"
+          }
+        ],
+        "mobilising_skills": [],
+        "mobilising_interests": [],
+        "bio": "# As A Mozillian\r\nLong-time Mozilla Community Member. Current roles include Mozilla Reps Mentor, Community Building, Add-ons Reviewer, and Evangelism. Active in [Mozilla Slovenija](http://mozilla.si) and [Mozilla Ireland](http://mozillaireland.org). \r\n\r\n# Work\r\nEuropean Community Manager for Mozilla. Previously, founder and developer at [Briks Software](http://briks.si), mostly writing add-ons for Firefox and software for other powered-by-Mozilla applications.\r\n\r\n# As A Mentor\r\nI'm proud to have helped build out the Mozilla Reps program as part of the provisional council. Now I help as a mentor. The role of a mentor is to guide Reps though the ins and outs of the program and help if any issues arise.\r\n\r\n# Office Hours\r\nI don't have office hours per se as a mentor, but am usually online Mon-Fri 07:00 - 17:00 UTC. Ping me via any communication channel you find me on, some of which are listed on this page.",
+        "mentor": {
+          "first_name": "Brian",
+          "last_name": "King",
+          "display_name": "brianking",
+          "_url": "https://reps.mozilla.org/api/remo/v1/users/129/"
+        },
+        "mozillians_profile_url": "https://mozillians.org/kinger",
+        "timezone": "",
+        "groups": [
+          {
+            "name": "Admin"
+          },
+          {
+            "name": "Rep"
+          },
+          {
+            "name": "Mentor"
+          }
+        ],
+        "remo_url": "https://reps.mozilla.org/u/brianking/"
+      }
+    },
+    {
       "first_name": "Kalman",
       "last_name": "Szalai",
       "display_name": "kami911",
@@ -25101,111 +23249,6 @@
       }
     },
     {
-      "first_name": "Robert",
-      "last_name": "Kaiser",
-      "display_name": "KaiRo",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/126/",
-      "profile": {
-        "first_name": "Robert",
-        "last_name": "Kaiser",
-        "display_name": "KaiRo",
-        "date_joined_program": "2011-06-19",
-        "date_left_program": null,
-        "city": "Vienna",
-        "region": "Vienna",
-        "country": "Austria",
-        "twitter_account": "",
-        "jabber_id": "",
-        "irc_name": "KaiRo",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:KaiRo",
-        "irc_channels": "#l10n,#mozilla.de,#crashkill,#pm,#developers,#techspeakers",
-        "linkedin_url": "",
-        "facebook_url": "",
-        "diaspora_url": "https://joindiaspora.com/u/kairo",
-        "functional_areas": [
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Connected Devices"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Identity"
-          },
-          {
-            "name": "Location Services"
-          },
-          {
-            "name": "Market Insights"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Metrics"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Quality Assurance"
-          },
-          {
-            "name": "Rust"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Testing"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_interests": [
-          {
-            "name": "Advocacy"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "bio": "I've been localizing the Mozilla \"SeaMonkey\" application suite to German (Mozilla deutsch) since late 1999, from summer 2004 until it was slowly replaced by paid staff, I was leading the \"Mozilla Localization Project (MLP)\", since March 2005 I've been in the SeaMonkey Council, serving as \"project coordinator\" for the project until early 2011. After that. I worked for Mozilla for 5 years as a Project Manager for Stability and Release Quality. Since early 2017, I'm also a Mozilla Tech Speaker.",
-        "mentor": {
-          "first_name": "Michael",
-          "last_name": "Kohler",
-          "display_name": "michaelkohler",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/449/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/KaiRo/",
-        "timezone": "",
-        "groups": [
-          {
-            "name": "Rep"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/KaiRo/"
-      }
-    },
-    {
       "first_name": "Kemuel Joseph",
       "last_name": "Domanog",
       "display_name": "kjdomanog",
@@ -25291,91 +23334,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/kjdomanog/"
-      }
-    },
-    {
-      "first_name": "Brian",
-      "last_name": "King",
-      "display_name": "brianking",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/129/",
-      "profile": {
-        "first_name": "Brian",
-        "last_name": "King",
-        "display_name": "brianking",
-        "date_joined_program": "2011-06-01",
-        "date_left_program": null,
-        "city": "Novo mesto",
-        "region": "Dolenjska",
-        "country": "Slovenia",
-        "twitter_account": "brianking",
-        "jabber_id": "",
-        "irc_name": "kinger",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Kinger",
-        "irc_channels": "remo, remo-council, addons, mozdev, amo, amo-editors,, l10n",
-        "linkedin_url": "http://www.linkedin.com/in/briks",
-        "facebook_url": "http://www.facebook.com/brian.kinger",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Apps"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Code Contributions"
-          },
-          {
-            "name": "Engineering Program Management"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Firefox OS"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Open Badges"
-          },
-          {
-            "name": "Web Development"
-          },
-          {
-            "name": "WebFWD"
-          }
-        ],
-        "mobilising_skills": [],
-        "mobilising_interests": [],
-        "bio": "# As A Mozillian\r\nLong-time Mozilla Community Member. Current roles include Mozilla Reps Mentor, Community Building, Add-ons Reviewer, and Evangelism. Active in [Mozilla Slovenija](http://mozilla.si) and [Mozilla Ireland](http://mozillaireland.org). \r\n\r\n# Work\r\nEuropean Community Manager for Mozilla. Previously, founder and developer at [Briks Software](http://briks.si), mostly writing add-ons for Firefox and software for other powered-by-Mozilla applications.\r\n\r\n# As A Mentor\r\nI'm proud to have helped build out the Mozilla Reps program as part of the provisional council. Now I help as a mentor. The role of a mentor is to guide Reps though the ins and outs of the program and help if any issues arise.\r\n\r\n# Office Hours\r\nI don't have office hours per se as a mentor, but am usually online Mon-Fri 07:00 - 17:00 UTC. Ping me via any communication channel you find me on, some of which are listed on this page.",
-        "mentor": {
-          "first_name": "Brian",
-          "last_name": "King",
-          "display_name": "brianking",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/129/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/kinger",
-        "timezone": "",
-        "groups": [
-          {
-            "name": "Admin"
-          },
-          {
-            "name": "Rep"
-          },
-          {
-            "name": "Mentor"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/brianking/"
       }
     },
     {
@@ -25691,6 +23649,120 @@
       }
     },
     {
+      "first_name": "Faye",
+      "last_name": "Tandog",
+      "display_name": "fayetandog",
+      "_url": "https://reps.mozilla.org/api/remo/v1/users/75/",
+      "profile": {
+        "first_name": "Faye",
+        "last_name": "Tandog",
+        "display_name": "fayetandog",
+        "date_joined_program": "2011-06-01",
+        "date_left_program": null,
+        "city": "Munich",
+        "region": "Bavaria",
+        "country": "Germany",
+        "twitter_account": "fayetandog",
+        "jabber_id": "",
+        "irc_name": "fayetandog",
+        "wiki_profile_url": "https://wiki.mozilla.org/User:Fayetandog",
+        "irc_channels": "",
+        "linkedin_url": "http://www.linkedin.com/pub/faye-tandog/49/944/993",
+        "facebook_url": "",
+        "diaspora_url": "",
+        "functional_areas": [
+          {
+            "name": "Addons"
+          },
+          {
+            "name": "Advocacy and policy"
+          },
+          {
+            "name": "Business Development"
+          },
+          {
+            "name": "Campus"
+          },
+          {
+            "name": "Community support / participation"
+          },
+          {
+            "name": "Creative"
+          },
+          {
+            "name": "Developer Engagement"
+          },
+          {
+            "name": "Diversity and Inclusion"
+          },
+          {
+            "name": "Evangelism Product"
+          },
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Mozilla Leadership Network"
+          },
+          {
+            "name": "Mozilla Reps"
+          },
+          {
+            "name": "People"
+          },
+          {
+            "name": "Privacy"
+          },
+          {
+            "name": "Public Relations"
+          },
+          {
+            "name": "Recruiting"
+          },
+          {
+            "name": "User Engagement"
+          },
+          {
+            "name": "UX"
+          }
+        ],
+        "mobilising_skills": [
+          {
+            "name": "Marketing"
+          },
+          {
+            "name": "Teaching Privacy"
+          }
+        ],
+        "mobilising_interests": [
+          {
+            "name": "Advocacy"
+          },
+          {
+            "name": "Browser Extensions"
+          }
+        ],
+        "bio": "Office Hours:  \r\n=========================\r\n2100-2300 (UTC+1)  \r\n=================\r\n\r\nA Filipino currently in Munich, Germany. Industrial engineer by degree, growth hacker and community builder by heart. I want to teach the Web to anyone regardless of their technical orientation.  Aims to empower young leaders in the Mozilla community.\r\n\r\nhttps://github.com/fayetandog",
+        "mentor": {
+          "first_name": "Christos",
+          "last_name": "Bacharakis",
+          "display_name": "bacharakis",
+          "_url": "https://reps.mozilla.org/api/remo/v1/users/314/"
+        },
+        "mozillians_profile_url": "https://mozillians.org/en-US/u/fayetandog/",
+        "timezone": "Europe/Berlin",
+        "groups": [
+          {
+            "name": "Rep"
+          },
+          {
+            "name": "Mentor"
+          }
+        ],
+        "remo_url": "https://reps.mozilla.org/u/fayetandog/"
+      }
+    },
+    {
       "first_name": "Faten",
       "last_name": "Ben Thabet",
       "display_name": "Faten",
@@ -25890,120 +23962,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/fauzanalfi/"
-      }
-    },
-    {
-      "first_name": "Faye",
-      "last_name": "Tandog",
-      "display_name": "fayetandog",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/75/",
-      "profile": {
-        "first_name": "Faye",
-        "last_name": "Tandog",
-        "display_name": "fayetandog",
-        "date_joined_program": "2011-06-01",
-        "date_left_program": null,
-        "city": "Munich",
-        "region": "Bavaria",
-        "country": "Germany",
-        "twitter_account": "fayetandog",
-        "jabber_id": "",
-        "irc_name": "fayetandog",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Fayetandog",
-        "irc_channels": "",
-        "linkedin_url": "http://www.linkedin.com/pub/faye-tandog/49/944/993",
-        "facebook_url": "",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Addons"
-          },
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Business Development"
-          },
-          {
-            "name": "Campus"
-          },
-          {
-            "name": "Community support / participation"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Developer Engagement"
-          },
-          {
-            "name": "Diversity and Inclusion"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Public Relations"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "User Engagement"
-          },
-          {
-            "name": "UX"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Marketing"
-          },
-          {
-            "name": "Teaching Privacy"
-          }
-        ],
-        "mobilising_interests": [
-          {
-            "name": "Advocacy"
-          },
-          {
-            "name": "Browser Extensions"
-          }
-        ],
-        "bio": "Office Hours:  \r\n=========================\r\n2100-2300 (UTC+1)  \r\n=================\r\n\r\nA Filipino currently in Munich, Germany. Industrial engineer by degree, growth hacker and community builder by heart. I want to teach the Web to anyone regardless of their technical orientation.  Aims to empower young leaders in the Mozilla community.\r\n\r\nhttps://github.com/fayetandog",
-        "mentor": {
-          "first_name": "Christos",
-          "last_name": "Bacharakis",
-          "display_name": "bacharakis",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/314/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/en-US/u/fayetandog/",
-        "timezone": "Europe/Berlin",
-        "groups": [
-          {
-            "name": "Rep"
-          },
-          {
-            "name": "Mentor"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/fayetandog/"
       }
     },
     {
@@ -26211,6 +24169,9 @@
             "name": "Marketing"
           },
           {
+            "name": "Rust"
+          },
+          {
             "name": "Testing"
           },
           {
@@ -26232,129 +24193,6 @@
           }
         ],
         "remo_url": "https://reps.mozilla.org/u/daviddagb2/"
-      }
-    },
-    {
-      "first_name": "Ana Sofia",
-      "last_name": "Lopez Sanchez",
-      "display_name": "asofiaCh",
-      "_url": "https://reps.mozilla.org/api/remo/v1/users/45/",
-      "profile": {
-        "first_name": "Ana Sofia",
-        "last_name": "Lopez Sanchez",
-        "display_name": "asofiaCh",
-        "date_joined_program": "2011-06-01",
-        "date_left_program": null,
-        "city": "Managua",
-        "region": "Managua",
-        "country": "Nicaragua",
-        "twitter_account": "AnaSofiaLopezx",
-        "jabber_id": "",
-        "irc_name": "cheerleader",
-        "wiki_profile_url": "https://wiki.mozilla.org/User:Cheerleader",
-        "irc_channels": "mozilla-hispano",
-        "linkedin_url": "https://www.linkedin.com/in/ana-sof%C3%ADa-l-9464a4122/",
-        "facebook_url": "https://www.facebook.com/analopez92",
-        "diaspora_url": "",
-        "functional_areas": [
-          {
-            "name": "Accessibility"
-          },
-          {
-            "name": "Advocacy and policy"
-          },
-          {
-            "name": "Community support / participation"
-          },
-          {
-            "name": "Creative"
-          },
-          {
-            "name": "Diversity and Inclusion"
-          },
-          {
-            "name": "Evangelism Product"
-          },
-          {
-            "name": "Firefox"
-          },
-          {
-            "name": "Firefox Mobile"
-          },
-          {
-            "name": "Identity"
-          },
-          {
-            "name": "Localization"
-          },
-          {
-            "name": "Mozilla Leadership Network"
-          },
-          {
-            "name": "Mozilla Reps"
-          },
-          {
-            "name": "People"
-          },
-          {
-            "name": "Privacy"
-          },
-          {
-            "name": "Recruiting"
-          },
-          {
-            "name": "Rust"
-          },
-          {
-            "name": "Security"
-          },
-          {
-            "name": "Services"
-          },
-          {
-            "name": "WebFWD"
-          },
-          {
-            "name": "WebVR"
-          }
-        ],
-        "mobilising_skills": [
-          {
-            "name": "Rust"
-          },
-          {
-            "name": "Testing"
-          }
-        ],
-        "mobilising_interests": [
-          {
-            "name": "Advocacy"
-          },
-          {
-            "name": "Rust"
-          },
-          {
-            "name": "Testing"
-          }
-        ],
-        "bio": "## About me\r\n \r\n<p>Hi, Im Ana Sofia, mozilla Reps from Nicaragua.</p>\r\n\r\nIm in mozilla community since 2011. Im involved in different projects like:\r\n**Diversity & Inclusion** - **Advocacy** - **Rust** - **WebVR**\r\n\r\n<hr />\r\n\r\nIn Mozilla Hispano I lead Advocacy project for LATAM helping to different communities to participate in some activities related to Open Innovation, Decentralization, Privacy & Security, Digital Inclusion.\r\n\r\nAlso I help with the organization of **Martes Mozillero**, that is an activity that happens once a month to talk different topics about mozilla, activities of the Reps Latam, etc.\r\n\r\n\r\n_I enjoy meeting new people, speacially for create new interesting projects that helps mozilla mision._\r\n\r\nYou can find me on `telegram`, `twitter`, `personal_blog`",
-        "mentor": {
-          "first_name": "Arturo",
-          "last_name": "Martinez",
-          "display_name": "thephoenixbird",
-          "_url": "https://reps.mozilla.org/api/remo/v1/users/211/"
-        },
-        "mozillians_profile_url": "https://mozillians.org/es/cheerleader",
-        "timezone": "America/Managua",
-        "groups": [
-          {
-            "name": "Rep"
-          },
-          {
-            "name": "Resources"
-          }
-        ],
-        "remo_url": "https://reps.mozilla.org/u/asofiaCh/"
       }
     },
     {
