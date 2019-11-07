@@ -14,7 +14,7 @@
     "debug": "^4.1.1",
     "dom-storage": "^2.0.2",
     "gh-pages": "^2.1.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^15.2.1",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.0"
   }
