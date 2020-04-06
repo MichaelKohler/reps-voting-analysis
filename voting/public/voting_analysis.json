@@ -108,7 +108,7 @@
     },
     "maxVotesPerCandidates": 1790,
     "totalVideoViews": 374,
-    "totalElegible": 285,
+    "totalEligible": 285,
     "totalVotersRatio": 0.6280701754385964,
     "countryInfo": {
       "Czech Republic": {
@@ -518,7 +518,7 @@
     },
     "maxVotesPerCandidates": 906,
     "totalVideoViews": null,
-    "totalElegible": 285,
+    "totalEligible": 285,
     "totalVotersRatio": 0.5298245614035088,
     "countryInfo": {
       "Indonesia": {
@@ -941,7 +941,7 @@
     },
     "maxVotesPerCandidates": 1256,
     "totalVideoViews": 0,
-    "totalElegible": 262,
+    "totalEligible": 262,
     "totalVotersRatio": 0.5992366412213741,
     "countryInfo": {
       "Bangladesh": {
@@ -1336,7 +1336,7 @@
     },
     "maxVotesPerCandidates": 600,
     "totalVideoViews": 44,
-    "totalElegible": 240,
+    "totalEligible": 240,
     "totalVotersRatio": 0.5,
     "countryInfo": {
       "Israel": {

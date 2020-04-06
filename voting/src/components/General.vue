@@ -4,7 +4,7 @@
     <section class="tiles">
       <Tile :amount="this.votingData.nominees.length" title="Total nominees" />
       <Tile :amount="this.votingData.totalVoters" title="Total voters" />
-      <Tile :amount="this.votingData.totalElegible" title="Total Elegible" />
+      <Tile :amount="this.votingData.totalEligible" title="Total Eligible" />
       <Tile :amount="this.votersRatioInPercent" title="% voted" />
     </section>
   </div>

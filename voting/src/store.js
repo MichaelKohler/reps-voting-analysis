@@ -13,7 +13,7 @@ export default new Vuex.Store({
       votedPerDate: [],
       totalVotersRatio: 0,
       totalVoters: 0,
-      totalElegible: 0,
+      totalEligible: 0,
     },
     availableVotings: [],
     allVotingData: {},
