@@ -7,7 +7,9 @@
     "fetch": "DEBUG=* FETCH_REPS=true FETCH_ONLY=true node index.js",
     "reminder": "GET_NOT_VOTED=true node index.js",
     "copy": "cp data/* voting/public/",
-    "deploy": "cd voting && npm run build && sed -i '' 's#=/favicon#=favicon#g' dist/index.html && sed -i '' 's#=/js#=js#g' dist/index.html && sed -i '' 's#=/css#=css#g' dist/index.html && gh-pages -d dist"
+    "deploy": "cd voting && npm run build && sed -i '' 's#=/favicon#=favicon#g' dist/index.html && sed -i '' 's#=/js#=js#g' dist/index.html && sed -i '' 's#=/css#=css#g' dist/index.html && gh-pages -d dist",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "async": "^3.2.0",
@@ -16,6 +18,8 @@
     "gh-pages": "^2.2.0",
     "jsdom": "^16.2.2",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0"
-  }
+    "node-fetch": "^2.6.0",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
