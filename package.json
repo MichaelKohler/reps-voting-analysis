@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "async": "^3.2.0",
-    "debug": "^4.1.1",
+    "debug": "^4.2.0",
     "dom-storage": "^2.0.2",
     "gh-pages": "^2.2.0",
     "jsdom": "^16.2.2",
