@@ -46,7 +46,7 @@ Deploying a new build to gh-pages
 ------
 
 The website is hosted on GitHub Pages. We are using the gh-pages branch for this. Please note that this branch only contains
-the relevant output documents. So please, never try to merge this into master. To start a deployment, you can run:
+the relevant output documents. So please, never try to merge this into main. To start a deployment, you can run:
 
 ```
 $ npm run deploy
