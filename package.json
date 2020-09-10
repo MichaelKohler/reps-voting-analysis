@@ -18,7 +18,7 @@
     "gh-pages": "^2.2.0",
     "jsdom": "^16.2.2",
     "moment": "^2.26.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "snyk": "^1.324.0"
   },
   "snyk": true
