@@ -2033,5 +2033,46 @@
         "ratio": 1
       }
     }
+  },
+  "2020-2": {
+    "year": 2020,
+    "election": 2,
+    "totalVoters": 96,
+    "nominees": [
+      {
+        "name": "Lidya Christina",
+        "videoViews": 0,
+        "votes": 64,
+        "ratioOfTotalPossibleVotes": 0.666666
+      },
+      {
+        "name": "David Gonzalez Blanchard",
+        "videoViews": 0,
+        "votes": 63,
+        "ratioOfTotalPossibleVotes": 0.65625
+      },
+      {
+        "name": "Pranshu Khanna",
+        "videoViews": 0,
+        "votes": 41,
+        "ratioOfTotalPossibleVotes": 0.42708
+      },
+      {
+        "name": "Vishal Chavan",
+        "videoViews": 0,
+        "votes": 40,
+        "ratioOfTotalPossibleVotes": 0.416666
+      },
+      {
+        "name": "Bala Subramaniyan",
+        "videoViews": 0,
+        "votes": 24,
+        "ratioOfTotalPossibleVotes": 0.25
+      }
+    ],
+    "maxVotesPerCandidates": 1,
+    "totalVideoViews": 0,
+    "totalEligible": 219,
+    "totalVotersRatio": 0.4384
   }
 }
