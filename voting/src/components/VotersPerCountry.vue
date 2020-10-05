@@ -1,6 +1,7 @@
 <template>
   <div class="votersPerCountry-chart">
-    <table>
+    <h1>Reps Voting Analysis - Voters per Country</h1>
+    <table v-if="votingData.countryInfo">
       <thead>
         <th>Country</th>
         <th>Ratio</th>
@@ -16,6 +17,7 @@
         </tr>
       </tbody>
     </table>
+    <p v-if="!votingData.countryInfo">No data available.</p>
   </div>
 </template>
 

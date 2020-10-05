@@ -1,7 +1,8 @@
 <template>
   <div class="charts">
     <h1>Reps Voting Analysis - Votes per Day</h1>
-    <VotesPerDayChart :voting="votingData" />
+    <VotesPerDayChart v-if="votingData.votedPerDate" :voting="votingData" />
+    <p v-if="!votingData.votedPerDate">No data available.</p>
   </div>
 </template>
 
