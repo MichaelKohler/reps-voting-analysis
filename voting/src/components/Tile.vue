@@ -9,7 +9,7 @@
   export default {
     name: 'RepsTile',
     props: {
-      amount: Number,
+      amount: [Number, String],
       title: String,
     },
     components: {},
