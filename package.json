@@ -13,13 +13,13 @@
   },
   "dependencies": {
     "async": "^3.2.0",
-    "debug": "^4.2.0",
+    "debug": "^4.3.1",
     "dom-storage": "^2.0.2",
-    "gh-pages": "^2.2.0",
-    "jsdom": "^16.2.2",
-    "moment": "^2.26.0",
+    "gh-pages": "^3.1.0",
+    "jsdom": "^16.5.3",
+    "moment": "^2.29.1",
     "node-fetch": "^2.6.1",
-    "snyk": "^1.324.0"
+    "snyk": "^1.543.0"
   },
   "snyk": true
 }
