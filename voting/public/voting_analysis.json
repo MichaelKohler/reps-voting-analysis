@@ -2074,5 +2074,40 @@
     "totalVideoViews": 0,
     "totalEligible": 219,
     "totalVotersRatio": 0.4384
+  },
+  "2021-1": {
+    "year": 2021,
+    "election": 1,
+    "totalVoters": 100,
+    "nominees": [
+      {
+        "name": "Tim Maks van den Broek",
+        "videoViews": 0,
+        "votes": 77,
+        "ratioOfTotalPossibleVotes": 0.77
+      },
+      {
+        "name": "Luis Sanchez",
+        "videoViews": 0,
+        "votes": 65,
+        "ratioOfTotalPossibleVotes": 0.65
+      },
+      {
+        "name": "Hossain Al Ikram",
+        "videoViews": 0,
+        "votes": 37,
+        "ratioOfTotalPossibleVotes": 0.37
+      },
+      {
+        "name": "Mehul Patel",
+        "videoViews": 0,
+        "votes": 34,
+        "ratioOfTotalPossibleVotes": 0.34
+      }
+    ],
+    "maxVotesPerCandidates": 1,
+    "totalVideoViews": 0,
+    "totalEligible": 221,
+    "totalVotersRatio": 0.4525
   }
 }
