@@ -2109,5 +2109,46 @@
     "totalVideoViews": 0,
     "totalEligible": 221,
     "totalVotersRatio": 0.4525
+  },
+  "2022-1": {
+    "year": 2022,
+    "election": 1,
+    "totalVoters": 88,
+    "nominees": [
+      {
+        "name": "Robert Reyes",
+        "videoViews": 0,
+        "votes": 59,
+        "ratioOfTotalPossibleVotes": 0.77
+      },
+      {
+        "name": "Paul Wright",
+        "videoViews": 0,
+        "votes": 47,
+        "ratioOfTotalPossibleVotes": 0.67
+      },
+      {
+        "name": "Siddhartha Rao",
+        "videoViews": 0,
+        "votes": 43,
+        "ratioOfTotalPossibleVotes": 0.49
+      },
+      {
+        "name": "Shahid Ali Farooqui",
+        "videoViews": 0,
+        "votes": 37,
+        "ratioOfTotalPossibleVotes": 0.42
+      },
+      {
+        "name": "Bala Subramaniyan",
+        "videoViews": 0,
+        "votes": 34,
+        "ratioOfTotalPossibleVotes": 0.39
+      }
+    ],
+    "maxVotesPerCandidates": 1,
+    "totalVideoViews": 0,
+    "totalEligible": 208,
+    "totalVotersRatio": 0.4231
   }
 }
