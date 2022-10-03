@@ -8,7 +8,7 @@ The frontend (charts) for the analysis is written with Vue. You can run the deve
 
 ```bash
 npm ci
-npm run serve
+npm start
 ```
 
 Now you can reach the locally running website (using the statistics you've just exported) at [localhost:8080](http://localhost:8080).

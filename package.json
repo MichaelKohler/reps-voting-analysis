@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve --open",
+    "start": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "deploy": "npm run build && sed -i'' -e 's#=/favicon#=favicon#g' dist/index.html && sed -i'' -e 's#=/js#=js#g' dist/index.html && sed -i'' -e 's#=/css#=css#g' dist/index.html && gh-pages -d dist"
