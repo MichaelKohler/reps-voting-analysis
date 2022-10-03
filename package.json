@@ -9,7 +9,7 @@
     "deploy": "npm run build && sed -i'' -e 's#=/favicon#=favicon#g' dist/index.html && sed -i'' -e 's#=/js#=js#g' dist/index.html && sed -i'' -e 's#=/css#=css#g' dist/index.html && gh-pages -d dist"
   },
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.27.2",
     "chart.js": "^2.9.4",
     "vue": "^2.6.12",
     "vue-chartjs": "^3.5.1",
